@@ -26,13 +26,6 @@ function App() {
 				status = {data.status}
 				number = {data.totalResults}
 			/>
-			{/* <Card 
-				author = {data.articles[0].author}
-				title = {data.articles[0].title}
-				description = {data.articles[0].description}
-				url = {data.articles[0].url}
-				img = {data.articles[0].urlToImage}
-			/> */}
 			{cards}
     	</div>
   	);
