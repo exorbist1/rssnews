@@ -1,228 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 2586,
+  "totalResults": 115,
   "articles": [
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "F1 tyre blanket ban would be dangerous, says Hamilton - Reuters",
-      "description": "F1 tyre blanket ban would be dangerous, says Hamilton  Reuters",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9zcG9ydHMvZjEtdHlyZS1ibGFua2V0LWJhbi13b3VsZC1iZS1kYW5nZXJvdXMtc2F5cy1oYW1pbHRvbi0yMDIzLTAyLTI1L9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-02-25T15:28:00Z",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "AlphaTauri F1 team will not be sold, says Tost - Reuters",
-      "description": "AlphaTauri F1 team will not be sold, says Tost  Reuters",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9zcG9ydHMvYWxwaGF0YXVyaS1mMS10ZWFtLXdpbGwtbm90LWJlLXNvbGQtc2F5cy10b3N0LTIwMjMtMDMtMDEv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-03-01T11:51:00Z",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "F1 stewards exempt Hamilton after 'disfigurement' fear - Reuters.com",
-      "description": "F1 stewards exempt Hamilton after 'disfigurement' fear  Reuters.com",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9zcG9ydHMvZjEtc3Rld2FyZHMtZXhlbXB0LWhhbWlsdG9uLWFmdGVyLWRpc2ZpZ3VyZW1lbnQtZmVhci0yMDIzLTAzLTAzL9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-03-03T12:30:00Z",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Ferrari boosts F1 online gaming strategy with VGW partnership - Reuters",
-      "description": "Ferrari boosts F1 online gaming strategy with VGW partnership  Reuters",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZmVycmFyaS1ib29zdHMtZjEtb25saW5lLWdhbWluZy1zdHJhdGVneS13aXRoLXZndy1wYXJ0bmVyc2hpcC0yMDIzLTAzLTAyL9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T17:50:00Z",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Stroll to race in Bahrain after missing F1 testing - Reuters",
-      "description": "Stroll to race in Bahrain after missing F1 testing  Reuters",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9zcG9ydHMvc3Ryb2xsLXJhY2UtYmFocmFpbi1hZnRlci1taXNzaW5nLWYxLXRlc3RpbmctMjAyMy0wMy0wMi_SAQA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-03-02T09:39:00Z",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Perez fastest as Alonso splits the Red Bulls in F1 practice - Reuters.com",
-      "description": "Perez fastest as Alonso splits the Red Bulls in F1 practice  Reuters.com",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9zcG9ydHMvcGVyZXotZmFzdGVzdC1hbG9uc28tc3BsaXRzLXJlZC1idWxscy1mMS1wcmFjdGljZS0yMDIzLTAzLTAzL9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-03-03T13:04:00Z",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Perez puts Red Bull on top as F1 wraps up pre-season test - Reuters.com",
-      "description": "Perez puts Red Bull on top as F1 wraps up pre-season test  Reuters.com",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9zcG9ydHMvcGVyZXotcHV0cy1yZWQtYnVsbC10b3AtZjEtd3JhcHMtdXAtcHJlLXNlYXNvbi10ZXN0LTIwMjMtMDItMjUv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-02-25T20:01:00Z",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "Stefano Domenicali: ‘F1 can drive real change – we are not chasing money’",
-      "description": "As the season opener in Bahrain nears, F1’s CEO discusses human rights, soft power and why he feels the sport can make a differenceWith Formula One ready to go racing again in Bahrain this week it will be a grand season premiere once more accompanied by a cho…",
-      "url": "https://www.theguardian.com/sport/2023/feb/28/stefano-domenicali-f1-can-drive-real-change-we-are-not-chasing-money",
-      "urlToImage": "https://i.guim.co.uk/img/media/3c303763655e8e0739e05c3973bc710d52adcd2d/0_435_4984_2990/master/4984.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f2cac95e8c8f2986c48c25a3828b2eb",
-      "publishedAt": "2023-02-28T16:00:08Z",
-      "content": "With Formula One ready to go racing again in Bahrain this week it will be a grand season premiere once more accompanied by a chorus of controversy over a host country criticised for its human rights … [+8174 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Tony Paley",
-      "title": "White Kart Lane: Tottenham sign 15-year deal with F1 for in-stadium track",
-      "description": "<ul><li>Track to be built under South Stand inside the Spurs ground</li><li>Academy programme set up for next generation of F1 drivers</li></ul>Combustion engine sounds will reverberate around the Tottenham Hotspur stadium from this autumn after Spurs signed …",
-      "url": "https://www.theguardian.com/football/2023/feb/28/white-kart-lane-tottenham-hotspur-15-year-go-karting-deal-f1",
-      "urlToImage": "https://i.guim.co.uk/img/media/b9cae13e771e2af6eec9d476e6fd2d1f4af1986c/93_871_6962_4177/master/6962.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=025766f34b9260cbd3e9563521e4bb8e",
-      "publishedAt": "2023-02-28T11:10:16Z",
-      "content": "Combustion engine sounds will reverberate around the Tottenham Hotspur stadium from this autumn after Spurs signed a 15-year motorsport deal with F1 to build a go-karting track inside the ground. The… [+2518 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "FIA president Ben Sulayem to step back from direct involvement with F1",
-      "description": "<ul><li>Ben Sulayem had fractious relationship with teams and drivers</li><li>FIA says he always planned to move to non-executive role</li></ul>The FIA president, Mohammed ben Sulayem, has announced he is to step back from direct involvement with Formula One.…",
-      "url": "https://www.theguardian.com/sport/2023/feb/08/ben-sulayem-to-step-back-from-direct-involvement-with-formula-one",
-      "urlToImage": "https://i.guim.co.uk/img/media/fef0f311dc9e76623b135303c68fd27f6f487ad3/0_24_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ec1e6ef36a62a5c310c2eb111e634c5",
-      "publishedAt": "2023-02-08T18:37:48Z",
-      "content": "The FIA president, Mohammed ben Sulayem, has announced he is to step back from direct involvement with Formula One.\r\nThe governing bodys relationship with F1s owners Liberty Media has been increasing… [+2943 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "Verstappen exuding confidence after improvements ahead of new F1 season",
-      "description": "<ul><li>Defending champion impressive during final testing</li><li>Mercedes and Ferrari face challenge to match Red Bull</li></ul>When the lights go out next week in Bahrain to open the new Formula One season the challenge for most of the grid is likely to fe…",
-      "url": "https://www.theguardian.com/sport/2023/feb/25/verstappen-exuding-confidence-after-improvements-ahead-of-new-f1-season",
-      "urlToImage": "https://i.guim.co.uk/img/media/8e83cfea3c29eaba33203a6d4e55b946dee67447/0_167_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4a93b9fcece050bc70b525c821747b0",
-      "publishedAt": "2023-02-25T17:13:43Z",
-      "content": "When the lights go out next weekend in Bahrain to open the new Formula One season, the challenge for most of the grid is likely to feel familiar: catch Max Verstappen and Red Bull.\r\nThe world champio… [+4604 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards in Bahrain",
-      "title": "Hamilton rejects claims that F1 has had positive impact in repressive regimes",
-      "description": "<ul><li>Sport should do more in Bahrain and Saudi Arabia, says Briton</li><li>FIA CEO insists F1 is not chasing money by staging races there</li></ul>Lewis Hamilton has cast doubt over Formula One’s claims that the sport brings about positive change in some o…",
-      "url": "https://www.theguardian.com/sport/2023/mar/02/lewis-hamilton-rejects-claims-f1-positive-impact-repressive-regimes-bahrain-saudi-arabia",
-      "urlToImage": "https://i.guim.co.uk/img/media/7721500cbebce2f1c502368f5fd6b44efb603ff9/348_75_2613_1568/master/2613.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebaa149713553d7a9b766d432afa1fbc",
-      "publishedAt": "2023-03-02T16:59:29Z",
-      "content": "Lewis Hamilton has cast doubt over Formula Ones claims that the sport brings about positive change in some of the repressive regimes where it races. In the buildup to the opening race of the new seas… [+4075 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "Formula One ‘will never gag anyone’, says chief executive Stefano Domenicali",
-      "description": "<ul><li>FIA recently announced ban on political statements</li><li>Domencali: ‘We have 20 drivers and different ideas’</li></ul>The Formula One chief executive, Stefano Domenicali, has insisted the sport “will never put a gag on anyone”, after the FIA announc…",
-      "url": "https://www.theguardian.com/sport/2023/feb/07/formula-one-will-never-gag-anyone-says-chief-executive-stefano-domenicali",
-      "urlToImage": "https://i.guim.co.uk/img/media/8a8e6ddc353e4c8172e3af12cc1532ac8a74371b/0_98_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=438f427f4ff25f0c631bc23fc80d8669",
-      "publishedAt": "2023-02-07T20:00:03Z",
-      "content": "The Formula One chief executive, Stefano Domenicali, has insisted the sport will never put a gag on anyone, after the FIA announced a clampdown banning political statements. Domenicali was unequivoca… [+4502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "McLaren’s Lando Norris prepared to defy FIA ban on political statements",
-      "description": "<ul><li>‘If it’s a fine I am probably happy to break it,’ says driver</li><li>Norris expects FIA to make U-turn on controversial policy</li></ul>Lando Norris has said he would be prepared to defy the FIA’s ban on drivers making political statements at Formula…",
-      "url": "https://www.theguardian.com/sport/2023/feb/13/mclaren-lando-norris-prepared-to-defy-fia-ban-on-political-statements",
-      "urlToImage": "https://i.guim.co.uk/img/media/f85c0f893d962c2c7a4eedccdcf10fd48dbb0ef3/0_27_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=070a662c10aaa4e300c689799da85b22",
-      "publishedAt": "2023-02-13T17:39:12Z",
-      "content": "Lando Norris has said he would be prepared to defy the FIAs ban on drivers making political statements at Formula One races. The McLaren driver added that the opposition among drivers was so strong h… [+3972 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jonathan M. Gitlin",
-      "title": "F1 will use sustainable fuels in its F2 and F3 series this year",
-      "description": "The plan calls for 300,000 liters of synthetic carbon-neutral fuel by 2027.",
-      "url": "https://arstechnica.com/cars/2023/03/f1-will-use-sustainable-fuels-in-its-f2-and-f3-series-this-year/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1470916532-760x380.jpg",
-      "publishedAt": "2023-03-03T14:00:58Z",
-      "content": "Enlarge/ A Formula 2 car on track in Bahrain. The cars are less powerful than an F1 machine, but still tricky to drive.\r\n9 with \r\nThe 2023 Formula 1 season springs into life this weekend at the Bahra… [+2482 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "PA Media",
-      "title": "F1 drivers ‘concerned’ by FIA ban on political statements, says Albon",
-      "description": "<ul><li>Williams drive left ‘confused’ by FIA approach</li><li>‘We need to be able to speak freely to some extent’</li></ul>Alex Albon said Formula One drivers are “concerned” about the FIA’s move to ban political statements.F1’s governing body has updated it…",
-      "url": "https://www.theguardian.com/sport/2023/feb/06/f1-drivers-concerned-by-fia-ban-on-political-statements-says-albon",
-      "urlToImage": "https://i.guim.co.uk/img/media/869c3a72e2f3f8d4b5f8fbb8fd04bb441d52088b/0_20_5120_3074/master/5120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7d08a9a514303c617fc6be1ee8b34c4",
-      "publishedAt": "2023-02-06T14:36:34Z",
-      "content": "Alex Albon said Formula One drivers are concerned about the FIAs move to ban political statements.\r\nF1s governing body has updated its rules to prevent political, religious or personal comments being… [+2768 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "‘We can get into that title fight’: Russell backs Mercedes before new F1 season",
-      "description": "<ul><li>British driver believes team can challenge Red Bull in 2023</li><li>Russell admits they are unlikely to match rivals in Bahrain</li></ul>George Russell believes he can join the fight for this season’s Formula One world championship but has warned that…",
-      "url": "https://www.theguardian.com/sport/2023/feb/24/we-can-get-into-that-title-fight-russell-backs-mercedes-before-new-f1-season",
-      "urlToImage": "https://i.guim.co.uk/img/media/2a30f03c686a0480a5e226b33c2b22a2f9c0a62d/0_148_4961_2976/master/4961.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=480a64712cacdf75bb28f98befb4d6ae",
-      "publishedAt": "2023-02-24T17:27:04Z",
-      "content": "George Russell believes he can join the fight for this seasons Formula One world championship but has warned that his Mercedes team are unlikely to match Red Bull at the opening race of the campaign.… [+2516 chars]"
-    },
     {
       "source": {
         "id": null,
@@ -235,19 +14,6 @@
       "urlToImage": "https://i.guim.co.uk/img/media/92c5558d59ed8b48e0172129d31fd57873bd842f/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fbedb3c691ea6a1eb9ccaad38118408",
       "publishedAt": "2023-03-04T12:00:23Z",
       "content": "Face-off at Mercedes\r\nLast season, with the car woefully off the pace and both drivers grinding out results while bouncing about like pinballs, Lewis Hamilton and George Russell made companionable te… [+5431 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards at Bahrain International Circuit",
-      "title": "Max Verstappen has F1 rivals running scared as he chases third world title",
-      "description": "On the eve of the season-opener, Lewis Hamilton and Lando Norris fear the Red Bull driver’s dominance is only beginningMax Verstappen, confident and at ease, his innate ability fused with judgment and maturity, could not enter the new season in better form. W…",
-      "url": "https://www.theguardian.com/sport/2023/mar/03/max-verstappen-has-f1-rivals-running-scared-as-he-chases-third-world-title",
-      "urlToImage": "https://i.guim.co.uk/img/media/27d7f752e037ccab74b5a127684e3b21995e985e/0_321_4856_2914/master/4856.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a146865ac252db5669203f33f9668c0",
-      "publishedAt": "2023-03-03T21:00:06Z",
-      "content": "Max Verstappen, confident and at ease, his innate ability fused with judgment and maturity, could not enter the new season in better form. With a Red Bull car that looks formidable it might be consid… [+5932 chars]"
     },
     {
       "source": {
@@ -278,149 +44,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "‘Nothing will stop me’: Lewis Hamilton defiant in face of possible FIA censure",
-      "description": "<ul><li>Mercedes driver shrugs off ban on making political statements</li><li>‘I’m still going to speak my mind – we still have this platform’</li></ul>Lewis Hamilton has defiantly insisted he will not be prevented from expressing his opinions by the FIA. The…",
-      "url": "https://www.theguardian.com/sport/2023/feb/15/nothing-will-stop-me-lewis-hamilton-defiant-in-face-of-possible-fia-censure-f1",
-      "urlToImage": "https://i.guim.co.uk/img/media/1e0a0ff1fc03ab1c01fde2c9b1d7f7cac69879b3/285_319_3629_2178/master/3629.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf66223d3581e6e8a90ea0fa60b51f02",
-      "publishedAt": "2023-02-15T16:11:58Z",
-      "content": "Lewis Hamilton has defiantly insisted he will not be prevented from expressing his opinions by the FIA. The British driver was unequivocal that he would not be silenced by Formula Ones governing body… [+3927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "FIA clarifies new rules on freedom of speech in bid to defuse row with drivers",
-      "description": "<ul><li>F1’s governing body insists the sport must remain neutral</li><li>Drivers free to express themselves outside of competition</li></ul>Formula One’s governing body has attempted to defuse an increasingly fractious row with drivers over restrictions on t…",
-      "url": "https://www.theguardian.com/sport/2023/feb/17/fia-clarifies-new-rules-on-freedom-of-speech-in-bid-to-defuse-row-with-drivers",
-      "urlToImage": "https://i.guim.co.uk/img/media/a620e83e9f43cda871b6385bf34c5fe8022da8ac/0_0_5187_3112/master/5187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=480e4d1e3be0d844a3ee7be36d94d5fb",
-      "publishedAt": "2023-02-17T18:49:11Z",
-      "content": "Formula Ones governing body has attempted to defuse an increasingly fractious row with drivers over restrictions on their freedom of speech.\r\nThe FIA has issued a clarification of the ban on politica… [+2961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "Wolff confident Mercedes can offer Hamilton chance for eighth world title",
-      "description": "<ul><li>Mercedes team principle believes 2023 car is competitive</li><li>F1 announces calendar for all-female Academy series</li></ul>Toto Wolff believes Mercedes have delivered a car ready to join the fight for the Formula One world championship this season …",
-      "url": "https://www.theguardian.com/sport/2023/feb/23/toto-wolff-confident-mercedes-can-offer-lewis-hamilton-chance-for-his-eighth-formula-one-world-title-this-season",
-      "urlToImage": "https://i.guim.co.uk/img/media/847fac0c730100ad7fabed47e3a7474c35145f4c/0_79_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ead2ec1ef5645793c39ad78a5973f99",
-      "publishedAt": "2023-02-23T18:53:55Z",
-      "content": "Toto Wolff believes Mercedes have delivered a car ready to join the fight for the Formula One world championship this season as it hit the track for the first test in Bahrain.\r\nThe Mercedes team prin… [+3559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards",
-      "title": "Formula One 2023: a team-by-team guide to the cars and drivers",
-      "description": "Can Ferrari, with new principal Frédéric Vasseur installed, challenge the supremacy of Red Bull and Max Verstappen?Car RB19 Engine Red Bull Principal Christian Horner Debut Australia 2005 GPs 347 Titles 5 Last season 1st. After an aggressive evolution of the …",
-      "url": "https://www.theguardian.com/sport/2023/mar/01/formula-one-2023-a-team-by-team-guide-to-the-cars-and-drivers",
-      "urlToImage": "https://i.guim.co.uk/img/media/1e962e99f309728a07b6ac828dfab8d5f3df7db4/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7ce5ba5ce9b9b9773f37ba0f5dc32a6",
-      "publishedAt": "2023-03-01T16:30:50Z",
-      "content": "Red Bull\r\nCar RB19 Engine Red Bull Principal Christian Horner Debut Australia 2005 GPs 347 Titles 5Last season 1st. After an aggressive evolution of the rocket ship with which they bossed the champio… [+14231 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Sarah Lord",
-      "title": "Comcast Xfinity Customers Reportedly Losing Free Peacock Access - CNET",
-      "description": "Xfinity customers who want to continue watching NBC's streaming service will have to start paying in June, Variety reports.",
-      "url": "https://www.cnet.com/tech/services-and-software/comcast-xfinity-customers-reportedly-losing-free-peacock-access/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/a306d97ff6734a932c5fd8cf80bd51885285852f/hub/2022/07/22/046e7a4a-215c-4eed-89c9-9666305c70e7/peacock-streaming-tv-movies-logo-6562.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "publishedAt": "2023-02-13T16:33:00Z",
-      "content": "Comcast Xfinity customers may have to start paying for Peacock Premium. The cable company is alerting customers that packages will no longer include a complimentary subscription to NBC's streaming se… [+1102 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Trends"
-      },
-      "author": "Briley Kenney",
-      "title": "What time is the Bahrain Grand Prix? Practice, Qualifying, Race Times",
-      "description": "If you're wondering what time is the F1 Bahrain Grand Prix, including practice, qualifying, and race stages, don't fret, we have you covered. Find it all here.",
-      "url": "https://www.digitaltrends.com/movies/what-time-is-bahrain-grand-prix-march-2023/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2015/05/150051_bahr_.jpg?resize=1200%2C630&p=1",
-      "publishedAt": "2023-03-03T08:11:12Z",
-      "content": "Ferrari at the 2015 Bahrain Gran Prix\r\nIt’s finally time for the first round of the 2023 Formula 1 Championship, which kicks off with the Bahrain Grand Prix. In season’s past, particularly last seaso… [+3501 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Graham Smith",
-      "title": "F1 Manager 2022 is free to play on Steam right now",
-      "description": "F1 Manager 2022 is free to play on Steam this weekend. From now until March 6th for nowt, you can try Frontier's driving management simulation, with a 70% discount if you decide to buy it.\n\n Read more",
-      "url": "https://www.rockpapershotgun.com/f1-manager-2022-is-free-to-play-on-steam-right-now",
-      "urlToImage": "https://assets2.rockpapershotgun.com/f1-3_rByt7FA.jpg/BROK/thumbnail/1200x630/f1-3_rByt7FA.jpg",
-      "publishedAt": "2023-03-02T19:14:41Z",
-      "content": "F1 Manager 2022 is free to play on Steam this weekend. From now until March 6th for nowt, you can try Frontier's driving management simulation, with a 70% discount if you decide to buy it.\r\nThe free … [+1384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Associated Press",
-      "title": "'So much passion' as Ferrari F1 drivers take Valentine's Day laps in new SF-23",
-      "description": "Filed under:\n Motorsports,Racing Vehicles\n Continue reading 'So much passion' as Ferrari F1 drivers take Valentine's Day laps in new SF-23\n'So much passion' as Ferrari F1 drivers take Valentine's Day laps in new SF-23 originally appeared on Autoblog on Tue, 1…",
-      "url": "https://www.autoblog.com/2023/02/14/ferrari-sf-23-formula-one-car-2023-charles-leclerc-carlos-sainz-jr/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/02/14112503/2023-02-14T155410Z_1260139200_RC2I9Z93HXIN_RTRMADP_3_MOTOR-F1-FERRARI.jpg.jpg",
-      "publishedAt": "2023-02-14T16:32:00Z",
-      "content": "So Im really, really looking forward to this new car the goal is to is to win, clearly. I mean, the feeling of winning is what motivates me, motivates all the team, too. So Im really looking forward … [+1171 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Chris Teague",
-      "title": "F1 CEO vows there will never be an electric car on the grid",
-      "description": "Filed under:\n Green,Motorsports,Electric,Hybrid,Racing Vehicles\n Continue reading F1 CEO vows there will never be an electric car on the grid\nF1 CEO vows there will never be an electric car on the grid originally appeared on Autoblog on Wed, 1 Mar 2023 10:42:…",
-      "url": "https://www.autoblog.com/2023/03/01/f1-will-never-have-electric-cars-ceo-says/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/03/01102539/shutterstock_1529772422.jpg",
-      "publishedAt": "2023-03-01T15:42:00Z",
-      "content": "As the automotive world goes electric, Formula 1 has a choice in front of it: Shift to electric cars and potentially compete with the FIAs Formula E, or resist following the path most of its OEM part… [+1654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Stephen Williams",
-      "title": "F1's 'Drive to Survive' is with more crashes, expletives, heroes and antiheroes",
-      "description": "Filed under:\n Motorsports,Ferrari,Mercedes-Benz,Racing Vehicles\n Continue reading F1's 'Drive to Survive' is with more crashes, expletives, heroes and antiheroes\nF1's 'Drive to Survive' is with more crashes, expletives, heroes and antiheroes originally appear…",
-      "url": "https://www.autoblog.com/2023/02/21/netflix-f1-drive-to-survive-new-season/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/5344x3006+0+300/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/10121844/Austrian-GP.jpg.jpg",
-      "publishedAt": "2023-02-21T15:41:00Z",
-      "content": "The dichotomy of Formula 1 sets up this way: Theres the extraordinary passions on display during the races from the drivers, teams and the fans. Then theres the backstabbing behind the scenes.\r\nBoth … [+1556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Reuters",
-      "title": "Back in black: Mercedes launches new F1 car to move past difficult 2022 season",
-      "description": "Filed under:\n Motorsports,Racing Vehicles\n Continue reading Back in black: Mercedes launches new F1 car to move past difficult 2022 season\nBack in black: Mercedes launches new F1 car to move past difficult 2022 season originally appeared on Autoblog on Wed, 1…",
-      "url": "https://www.autoblog.com/2023/02/15/mercedes-f1-car-lewis-hamilton-george-russell/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/02/15130218/Mercedes-4.jpeg",
-      "publishedAt": "2023-02-15T18:07:00Z",
-      "content": "Mercedes went back to black on Wednesday with a sleek new Formula One car they hope will allow Lewis Hamilton and George Russell to fight for wins and titles after a difficult 2022 season.\r\nThe team … [+2335 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Autoblog"
       },
       "author": "Associated Press",
@@ -430,175 +53,6 @@
       "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/03/03110043/01_M352950-copy.jpg",
       "publishedAt": "2023-03-04T15:30:00Z",
       "content": "George Russell downplays the fact he beat Formula One great Lewis Hamilton in their first season at Mercedes and fully expects him to come charging back.\r\nRussell was fourth overall last year compare… [+3054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Reuters",
-      "title": "F1's Lance Stroll to race in Bahrain Grand Prix after breaking wrists",
-      "description": "Filed under:\n Motorsports,Racing Vehicles\n Continue reading F1's Lance Stroll to race in Bahrain Grand Prix after breaking wrists\nF1's Lance Stroll to race in Bahrain Grand Prix after breaking wrists originally appeared on Autoblog on Thu, 2 Mar 2023 15:48:00…",
-      "url": "https://www.autoblog.com/2023/03/02/f1-bahrain-lance-stroll-broken-wrists/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/4000x2250+0+417/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2023-02/7e942340-b93b-11ed-b35f-350ef4487876",
-      "publishedAt": "2023-03-02T20:48:00Z",
-      "content": "MANAMA, Bahrain Aston Martin driver Lance Stroll will compete in the season-opening Bahrain Grand Prix after breaking both wrists and missing last week's preseason testing at the circuit.\r\nThe Canadi… [+2048 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Associated Press",
-      "title": "Mercedes, McLaren having difficulties in F1 testing",
-      "description": "Filed under:\n Motorsports,Racing Vehicles\n Continue reading Mercedes, McLaren having difficulties in F1 testing\nMercedes, McLaren having difficulties in F1 testing originally appeared on Autoblog on Fri, 24 Feb 2023 13:33:00 EST. Please see our terms for use …",
-      "url": "https://www.autoblog.com/2023/02/24/mercedes-mclaren-f1-testing/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/5316x2990+0+239/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2023-02/7c0219d0-b471-11ed-bbc2-89f19683e8b5",
-      "publishedAt": "2023-02-24T18:33:00Z",
-      "content": "Mercedes driver George Russell climbs from his car after stopping on track during day two of F1 testing on Friday in Bahrain. (Getty Images)\r\nSAKHIR, Bahrain Max Verstappen is displaying his speed in… [+2722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Reuters",
-      "title": "F1's 'moral vacuum': Drivers urged to tackle human rights in Bahrain, Saudi Arabia",
-      "description": "Filed under:\n Celebrities,Government/Legal,Motorsports\n Continue reading F1's 'moral vacuum': Drivers urged to tackle human rights in Bahrain, Saudi Arabia\nF1's 'moral vacuum': Drivers urged to tackle human rights in Bahrain, Saudi Arabia originally appeared …",
-      "url": "https://www.autoblog.com/2023/02/28/f1-drivers-speak-out-human-rights-abuses-saudi-arabia-bahrain/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2023-02/9d3c6390-b7a9-11ed-95df-fa542dc21d1c",
-      "publishedAt": "2023-02-28T20:51:00Z",
-      "content": "Lewis Hamilton and other Formula One drivers can help steer the sport away from a 'moral vacuum' by speaking out at season-opening races in Bahrain and Saudi Arabia, human rights campaigners said on … [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cohost.org"
-      },
-      "author": "https://cohost.org/tomforsyth",
-      "title": "Polynomial Interpolation",
-      "description": "Context: this is part of a series of reposts of some of my more popular blog posts. It was originally posted in June 2013 here http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BPolynomial%20interpolation%5D%5D [http://tomforsyth1000.github.io/blog.wiki.htm…",
-      "url": "https://cohost.org/tomforsyth/post/982199-polynomial-interpola",
-      "urlToImage": "https://staging.cohostcdn.org/attachment/a1769a25-c816-4915-a15f-073740d224ee/Polynomila%20interpolation.png",
-      "publishedAt": "2023-02-08T11:05:29Z",
-      "content": "Context: this is part of a series of reposts of some of my more popular blog posts. It was originally posted in June 2013 here http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BPolynomial%20interp… [+9026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Giles Richards at the Bahrain International Circuit",
-      "title": "Lewis Hamilton makes a statement in Bahrain and gets jewellery exemption",
-      "description": "<ul><li>British driver wears helmet decorated with a rainbow</li><li>Alonso first in practice ahead of Verstappen and Pérez</li></ul>Lewis Hamilton made a statement of his own as the new season began with practice in Bahrain, wearing a helmet decorated with a…",
-      "url": "https://www.theguardian.com/sport/2023/mar/03/hamilton-supports-lgbtq-rights-as-alonso-sets-practice-pace-in-bahrain",
-      "urlToImage": "https://i.guim.co.uk/img/media/e73e67fd2faed7421e710e692f30972adcb2d1d2/0_168_2553_1532/master/2553.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=254889ba787077bdd4f66a54eb598400",
-      "publishedAt": "2023-03-03T17:09:12Z",
-      "content": "Lewis Hamilton made a statement of his own as the new season began with practice in Bahrain, wearing a helmet decorated with a rainbow in support of LGBTQ+ rights in the region. The British driver ha… [+1818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Zac Palmer",
-      "title": "Formula One 2023 season preview: Everything you should know",
-      "description": "Filed under:\n Motorsports,Racing Vehicles\n Continue reading Formula One 2023 season preview: Everything you should know\nFormula One 2023 season preview: Everything you should know originally appeared on Autoblog on Thu, 2 Mar 2023 06:00:00 EST. Please see our…",
-      "url": "https://www.autoblog.com/2023/03/02/formula-one-2023-season-preview/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2023-03/70f2a790-b862-11ed-bf9d-19bf917fa79e",
-      "publishedAt": "2023-03-02T11:00:00Z",
-      "content": "The 2023 Formula 1 season is upon us, so with the first race weekend in Bahrain coming up fast, a preview is in order. New drivers and old drivers shifting teams mean there are a lot of changes to th… [+5315 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "INSIDER"
-      },
-      "author": "Andrew Lloyd",
-      "title": "A man said he refused to let a crying child take the last spot on a Formula 1 test ride. TikTokers are flocking to his defense.",
-      "description": "A man posted a video suggesting he didn't allow a crying child to take his spot. It went hugely viral but TikTokers overwhelmingly supported him.",
-      "url": "https://www.insider.com/tiktoker-refused-crying-child-queue-place-viral-video-2023-2",
-      "urlToImage": "https://media.zenfs.com/en/insider_articles_922/e3ba58e25da2131957b7e457f25d027d",
-      "publishedAt": "2023-02-28T16:20:00Z",
-      "content": "A TikTok of a man appearing to deny a child his last spot on a ride received 9.3 million views.TikTok: @myrightmiddletoe\r\n<ul><li>A video of a man who said he refused to give up his spot on a ride to… [+3294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Ben Hsu",
-      "title": "Aston Martin reveals AMR23 Formula 1 car for 2023 season",
-      "description": "Filed under:\n Motorsports,Aston Martin,Racing Vehicles,Performance\n Continue reading Aston Martin reveals AMR23 Formula 1 car for 2023 season\nAston Martin reveals AMR23 Formula 1 car for 2023 season originally appeared on Autoblog on Tue, 14 Feb 2023 09:15:00…",
-      "url": "https://www.autoblog.com/2023/02/14/aston-martin-amr23-f1-car-reveal/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/02/13213608/Aston-Martin-AMR23-01.jpg",
-      "publishedAt": "2023-02-14T14:15:00Z",
-      "content": "Aston Martin took a Union Jack wrap off of its new Formula 1 race car today. The AMR23 marks the third wholly Aston Martin-branded car to race F1 in the modern era.\r\nFinished in an eye-catching dark … [+1489 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Erik Shilling",
-      "title": "The FIA President Has Read the Room",
-      "description": "It was in December 2021 when Mohammed ben Sulayem was elected president of the Fédération Internationale de l’Automobile, better known as the FIA, the governing body for Formula E, World Rally Championship, and several other racing series, in addition to some…",
-      "url": "https://jalopnik.com/the-fia-president-has-read-the-room-1850090414",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8fb910a7b2acb5db9044de9dade646e4.jpg",
-      "publishedAt": "2023-02-08T23:00:00Z",
-      "content": "It was in December 2021 when Mohammed ben Sulayem was elected president of the Fédération Internationale de lAutomobile, better known as the FIA, the governing body for Formula E, World Rally Champio… [+2177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VentureBeat"
-      },
-      "author": "Rachel Kaser",
-      "title": "Xbox Game Pass adds Wo Long: Fallen Dynasty in early March update",
-      "description": "Xbox is rolling out a short Game Pass update for the end of February and the beginning of March, which includes Soulslike Wo Long.",
-      "url": "https://venturebeat.com/games/xbox-game-pass-adds-wo-long-fallen-dynasty-in-early-march-update/",
-      "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/02/XGP-February-2023_2.jpg?w=1200&strip=all",
-      "publishedAt": "2023-02-21T23:22:48Z",
-      "content": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here.\r\nXbox Game Pass updates are on a strange schedule, as the latest update reveals which games are … [+1921 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Stephen Williams",
-      "title": "Formula 1's debut race in Vegas will cost you $12K for the ultimate experience",
-      "description": "Filed under:\n Celebrities,Motorsports,Racing Vehicles\n Continue reading Formula 1's debut race in Vegas will cost you $12K for the ultimate experience\nFormula 1's debut race in Vegas will cost you $12K for the ultimate experience originally appeared on Autobl…",
-      "url": "https://www.autoblog.com/2023/02/27/formula-1-las-vegas-grand-prix-race-costs-tickets-hotels/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/02/27152035/Screenshot-2023-02-27-at-3.18.27-PM.png",
-      "publishedAt": "2023-02-27T21:28:00Z",
-      "content": "If horse racing is the sport of kings, perhaps Formula 1 is the sport of princes.\r\nIn a report released this week by a British organization called KingCasinoBonus, the priciest F1 events to attend on… [+1904 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Ronan Glon",
-      "title": "Alfa Romeo C43 is ready for the 2023 Formula One season",
-      "description": "Filed under:\n Motorsports,Alfa Romeo,Racing Vehicles\n Continue reading Alfa Romeo C43 is ready for the 2023 Formula One season\nAlfa Romeo C43 is ready for the 2023 Formula One season originally appeared on Autoblog on Tue, 7 Feb 2023 10:27:00 EST. Please see …",
-      "url": "https://www.autoblog.com/2023/02/07/alfa-romeo-c43-2023-f1-race-car-revealed/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/02/07101814/alfa-romeo-c43-3.jpg",
-      "publishedAt": "2023-02-07T15:27:00Z",
-      "content": "Following rival Red Bull's lead, Alfa Romeo has become the second team to unveil the car it will race in the 2023 season of Formula One. (Haas has revealed its livery, but so far not the new season's… [+1525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Ryan Erik King",
-      "title": "How to Watch Formula 1, NASCAR, IndyCar and Everything Else in Racing This Weekend, March 3-5",
-      "description": "Welcome to the Jalopnik Weekend Motorsports Roundup, where we let you know what’s going on in the world of racing, how to watch this weekend’s Formula 1, NASCAR and IndyCar races and where you can talk about it, all in one convenient place.Read more...",
-      "url": "https://jalopnik.com/how-to-watch-formula-1-nascar-indycar-and-everything-1850179847",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fabff0428ae017800534139b55741503.jpg",
-      "publishedAt": "2023-03-02T22:30:00Z",
-      "content": "Welcome to the Jalopnik Weekend Motorsports Roundup, where we let you know whats going on in the world of racing, how to watch this weekends Formula 1, NASCAR and IndyCar races and where you can talk… [+2771 chars]"
     },
     {
       "source": {
@@ -615,237 +69,159 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Kaan Serin",
-      "title": "Soul Hackers 2 and Wo Long: Fallen Dynasty included in the next batch of Game Pass additions",
-      "description": "Time is flying by a little too fast in 2023, although it’s not all bad news as a new month means new Game Pass additions. Microsoft have announced the next four games hitting the service before March 3rd, alongside Atomic Heart which releases today. I was int…",
-      "url": "https://www.rockpapershotgun.com/soul-hackers-2-and-wo-long-fallen-dynasty-included-in-the-next-batch-of-game-pass-additions",
-      "urlToImage": "https://assets2.rockpapershotgun.com/Soul-Hackers-2_PNeUH38.jpg/BROK/thumbnail/1200x630/Soul-Hackers-2_PNeUH38.jpg",
-      "publishedAt": "2023-02-21T15:41:55Z",
-      "content": "Time is flying by a little too fast in 2023, although it’s not all bad news as a new month means new Game Pass additions. Microsoft have announced the next four games hitting the service before March… [+2148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Elizabeth Blackstock",
-      "title": "The 2023 F1 Academy Schedule Is a Disservice to Women Racers",
-      "description": "In an effort to get more women on the motorsport ladder after the folding of W Series, the FIA introduced a new all-female ladder series named F1 Academy. The series has been taking shape for the past few months, but we finally have a calendar of events ready…",
-      "url": "https://jalopnik.com/the-2023-f1-academy-schedule-is-a-disservice-to-women-r-1850150228",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2b9a31f0c339eefee78b2319db535469.jpg",
-      "publishedAt": "2023-02-24T14:30:00Z",
-      "content": "In an effort to get more women on the motorsport ladder after the folding of W Series, the FIA introduced a new all-female ladder series named F1 Academy. The series has been taking shape for the pas… [+2784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HYPEBEAST"
-      },
-      "author": "info@hypebeast.com (Hypebeast)",
-      "title": "Max Verstappen Tops Timesheets in First day of F1 Pre-Season Testing",
-      "description": "As F1 drivers put in their first runs of the year at the Bahrain International Circuit, Red Bull driver Max Verstappen continued the forward momentum from his Championship-winning season last year, recording the best lap time so far on the first day of pre-se…",
-      "url": "https://hypebeast.com/2023/2/formula-1-preseason-testing-verstappen-leads-news-info",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Fformula-1-preseason-testing-verstappen-leads-news-info-tw-1.jpg?w=960&cbr=1&q=90&fit=max",
-      "publishedAt": "2023-02-24T06:46:42Z",
-      "content": "As F1 drivers put in their first runs of the year at the Bahrain International Circuit, Red Bull driver Max Verstappen continued the forward momentum from his Championship-winning season last year, r… [+1665 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "zacharylboddy@outlook.com (Zachary Boddy)",
-      "title": "F1 22, Wo Long: Fallen Dynasty, and more come to Xbox Game Pass in February",
-      "description": "The next wave of Xbox Game Pass has been announced. While only four games, there are still some exciting additions for racing fans, Soulslike lovers, and more.",
-      "url": "https://www.windowscentral.com/gaming/f1-22-wo-long-fallen-dynasty-and-more-come-to-xbox-game-pass-in-february",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DJCBdyYPcbVLgZj3UhXMkf-1200-80.jpg",
-      "publishedAt": "2023-02-21T15:30:55Z",
-      "content": "What you need to know\r\n<ul><li>Xbox Game Pass is an all-inclusive gaming subscription from Microsoft, constantly growing with new games.</li><li>On Tuesday, Xbox announced the next wave of titles hea… [+2679 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Elizabeth Blackstock",
-      "title": "Formula 1: Drive to Survive Is Starting to Feel Even More Shameless",
-      "description": "Last Friday saw the release of Formula 1: Drive to Survive’s latest season. For the past five years, Netflix has followed the sport under the guise of showing fans what it’s really like behind the scenes of the world’s most prestigious form of open-wheel raci…",
-      "url": "https://jalopnik.com/formula-1-drive-to-survive-is-starting-to-feel-even-mo-1850158203",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2575ca32a763f4f0c2999b4af70eb9ec.jpg",
-      "publishedAt": "2023-02-27T16:00:00Z",
-      "content": "Last Friday saw the release of Formula 1: Drive to Survives latest season. For the past five years, Netflix has followed the sport under the guise of showing fans what its really like behind the scen… [+6551 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HYPEBEAST"
-      },
-      "author": "info@hypebeast.com (Hypebeast)",
-      "title": "McLaren and LEGO Team Up For Speed Champions Double Pack",
-      "description": "2023 marks the 60th anniversary of British luxury automotive brand McLaren. To celebrate this, it has once again connected with the LEGO Group to bring two of its cars to brick form. Previously, models such as the Elva and Senna GTR joined LEGO's Speed Champi…",
-      "url": "https://hypebeast.com/2023/2/lego-speed-champions-mclaren-double-pack-76918-release-date",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Flego-speed-champions-mclaren-double-pack-76918-release-date-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "publishedAt": "2023-02-28T22:38:09Z",
-      "content": "2023 marks the 60th anniversary of British luxury automotive brand McLaren. To celebrate this, it has once again connected with the LEGO Group to bring two of its cars to brick form. Previously, mode… [+990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Nishka Dhawan",
-      "title": "RS Recommends: The Best Formula 1 Merch for Every Race Fan",
-      "description": "From authentic team polos to LEGO cars for adults, these are the best pieces of F1 merch to buy online",
-      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-formula-one-f1-merch-1329797/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/03/81EZelN2GHS._AC_SL1500_-e1648598635732.jpg?w=1500&h=900&crop=1",
-      "publishedAt": "2023-03-02T23:00:00Z",
-      "content": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nLooking to rep your favorite Formula 1 team or driver? … [+5531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Oscar Hartzog",
-      "title": "Finished ‘Drive to Survive’ Season 5? Here’s What to Watch and Read Next",
-      "description": "If you binged the new Drive to Survive season as fast as we did, fill the car-sized void with these docuseries, movies, and books about racing and other sports",
-      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/shows-like-drive-to-survive-1234689380/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/03/what-to-watch-after-drive-to-survive.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2023-03-02T02:30:45Z",
-      "content": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nThe fifth season of the hit Formula 1 docuseries, Drive… [+5412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Ro",
-      "title": "Qualcomm teams up with Mercedes-AMG Petronas F1 team",
-      "description": "Exactly one year ago, Qualcomm signed a partnership with the Ferrari F1 team, but the chip maker's logo was absent from this year's Ferrari car that was unveiled yesterday. Today the explanation came as Mercedes-AMG Petronas F1 unveiled its own 2023 car and c…",
-      "url": "https://www.gsmarena.com/qualcomm_teams_up_with_mercedesamg_petronas_f1_team-news-57567.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/02/qualcomm-mercedes-petronas-partnership/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2023-02-15T19:21:01Z",
-      "content": "Exactly one year ago, Qualcomm signed a partnership with the Ferrari F1 team, but the chip maker's logo was absent from this year's Ferrari car that was unveiled yesterday. Today the explanation came… [+1101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Owen Bellwood",
-      "title": "Nyck de Vries Is Putting in the Work at AlphaTauri",
-      "description": "For most Formula 1 drivers, the ascent into the sport is a simple one: you win in karting, you win in regional single-seaters and then you win in junior categories like Formula 2. It’s the way drivers like Charles Leclerc, Pierre Gasly, and even Lewis Hamilto…",
-      "url": "https://jalopnik.com/nyck-de-vries-is-putting-in-the-work-at-alphatauri-1850112181",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/449bf3439819550104ef974c3bf08ef3.jpg",
-      "publishedAt": "2023-02-14T20:30:00Z",
-      "content": "For most Formula 1 drivers, the ascent into the sport is a simple one: you win in karting, you win in regional single-seaters and then you win in junior categories like Formula 2. Its the way drivers… [+3089 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Ben Sulayem absent as F1 discusses rule changes",
-      "description": "FIA president Mohammed Ben Sulayem did not attend Tuesday's meeting of Formula 1's rule-forming body, the F1 Commission.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64725502",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/D688/production/_128702945_gettyimages-1242948336.jpg",
-      "publishedAt": "2023-02-21T18:45:52Z",
-      "content": "Mohammed Ben Sulayem was elected president of the FIA in December 2021 but said in February 2023 he would take a step back\r\nFIA president Mohammed Ben Sulayem did not attend Tuesday's meeting of Form… [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Driver concern at free speech clampdown - Albon",
-      "description": "Williams' Alex Albon says F1 drivers are \"all concerned\" about an apparent clampdown on their ability to speak out on social and political issues.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64539592",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/A5DF/production/_128536424_gettyimages-1244855897.jpg",
-      "publishedAt": "2023-02-06T14:04:22Z",
-      "content": "Alex Albon replaced George Russell at Williams before the 2022 season\r\nAlex Albon says Formula 1 drivers are \"all concerned\" about an apparent clampdown on their ability to speak out on social and po… [+5712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sports Illustrated"
-      },
-      "author": "Madeline Coleman",
-      "title": "F1 CEO Takes Strong Stance Over Freedom of Speech Row",
-      "description": "The FIA updated the International Sporting Code with a clause that states drivers can’t make ‘political, religious and personal statements’ without previous approval.",
-      "url": "https://www.si.com/formula1/2023/02/08/f1-ceo-stefano-domenicali-strong-stance-freedom-of-speech-row-fia-max-verstappen-alex-albon",
-      "urlToImage": "https://www.si.com/.image/t_share/MTk1NzQyMjc3OTM3NjcwMTM4/stefano-domenicali.jpg",
-      "publishedAt": "2023-02-08T19:00:12Z",
-      "content": "With the 2023 Formula One season under a month away, individuals in the sport have started addressing a controversial rule change made by the FIA in December, and F1 CEO Stefano Domenicali is the lat… [+2732 chars]"
-    },
-    {
-      "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "author": "Rob Goldberg",
-      "title": "Lewis Hamilton Will Keep 'Speaking His Mind' amid F1's Ban on Political Statements",
-      "description": "Lewis Hamilton doesn't plan to change his approach despite Formula One <a...",
-      "url": "https://bleacherreport.com/articles/10065783-lewis-hamilton-will-keep-speaking-his-mind-amid-f1s-ban-on-political-statements",
-      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1676489014/fwycmmdufmvjmpn6nyc1.jpg",
-      "publishedAt": "2023-02-15T19:42:19Z",
-      "content": "Mark Thompson/Getty Images\r\nLewis Hamilton doesn't plan to change his approach despite Formula One announcing a ban on political statements in December.\r\n\"Nothing will stop me from speaking on the th… [+1429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autoblog"
-      },
-      "author": "Autoblog Staff, Autoblog",
-      "title": "Autoblog Electric launches; we talk EV news, VW ID.4 and Kia EV6 | Autoblog Podcast #770",
-      "description": "Filed under:\n Government/Legal,Green,Motorsports,Kia,Lotus,Volkswagen,Green Automakers,Green Culture,Green Driving,Truck,Crossover,SUV,Electric,Racing Vehicles,Infrastructure,Lucid\n Plus EV trucks, infrastructure, ICE bans, F1 e-fuels and moreContinue reading…",
-      "url": "https://www.autoblog.com/2023/03/03/podcast-electric-vehicles-vw-id4-kia-ev6-charging-ice-ban-pickups-f1-satisfaction/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/03/02153115/p770.jpg",
-      "publishedAt": "2023-03-03T17:00:00Z",
-      "content": "In this episode of the Autoblog Podcast, Editor-in-Chief Greg Migliore is joined by Senior Editor, Green, John Beltz Snyder. In company news, we launched the Autoblog Electric hub this week, and as s… [+1284 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "author": "Elizabeth Blackstock",
-      "title": "Haas Formula 1 Is Saving $250,000 This Year Just By Making Its Pit Wall Smaller",
-      "description": "The 2023 Formula 1 season has kicked off with pre-season testing this week at Bahrain International Circuit, and while most folks are looking to see who’s setting fast laps or putting in long, reliable runs, one stat caught my eye more than anything else: Mon…",
-      "url": "https://jalopnik.com/haas-formula-1-is-saving-250-000-this-year-just-by-mak-1850149685",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/41423756caa13a4d984562546eade65d.jpg",
-      "publishedAt": "2023-02-23T16:30:00Z",
-      "content": "The 2023 Formula 1 season has kicked off with pre-season testing this week at Bahrain International Circuit, and while most folks are looking to see whos setting fast laps or putting in long, reliabl… [+2259 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Oscar Hartzog",
-      "title": "How to Watch the Bahrain Grand Prix Online: Livestream the Season’s First F1 Race",
-      "description": "Formula One is back for 2023, kicking off with the Bahrain Grand Prix this weekend — here’s how to watch the race live online for free",
-      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-watch-bahrain-grand-prix-online-free-live-stream-f1-1234689925/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/03/how-to-watch-bahrain-gp-online-free.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2023-03-02T20:32:25Z",
-      "content": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nFormula 1 is finally back for a new season, kicking off… [+3491 chars]"
-    },
-    {
-      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
-      "author": "Al Jazeera",
-      "title": "Formula One drivers urged to speak up for human rights in Bahrain",
-      "description": "Lewis Hamilton and other F1 drivers called upon by rights groups to speak up against human rights abuses in Bahrain.",
-      "url": "https://www.aljazeera.com/sports/2023/3/1/rights-groups-urge-formula-one-drivers-to-speak-up-against-abuses",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/c704ab66d9c64a098451f93e12801540_18.jpeg?resize=1200%2C675",
-      "publishedAt": "2023-03-01T19:28:45Z",
-      "content": "Lewis Hamilton and his fellow Formula One drivers have been urged by human rights groups to speak up against human rights abuses and show solidarity with a rights activist based in Bahrain ahead of t… [+3480 chars]"
+      "author": "Jessica Baldwin",
+      "title": "Women drivers race to break Formula 1’s male monopoly",
+      "description": "With nearly half of Formula 1 fans now female, new initiatives aim to get women into the driving seat.",
+      "url": "https://www.aljazeera.com/sports/2023/3/4/women-drivers-race-to-break-formula-1s-male-monopoly",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/0000086050_HiRes_0KOX6YO064SO3L0U70MTC0WE6TQ8.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-03-04T05:51:10Z",
+      "content": "Silverstone, England As the Formula 1 season kicks off this weekend in Bahrain in front of a sell-out crowd, fans can expect to see blistering speeds, squealing tyres, sliding fast corners and daring… [+5879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Jonathan Noble",
+      "title": "AI replays and Augmented Reality: What’s new for F1’s TV coverage in 2023",
+      "description": "Some of the most significant changes in the way F1 is broadcast have taken place behind the scenes, especially with its production facility at Biggin Hill in the UK having been revamped this winter to make it state-of-the art. But where F1 never stands still …",
+      "url": "https://www.autosport.com/f1/news/ai-replays-and-more-augmented-reality-whats-new-for-f1s-tv-coverage-in-2023/10439342/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/0oOEWB10/s6/formula-1-news-2023-prototype--2.jpg",
+      "publishedAt": "2023-03-04T09:15:25Z",
+      "content": "Some of the most significant changes in the way F1 is broadcast have taken place behind the scenes, especially with its production facility at Biggin Hill in the UK having been revamped this winter t… [+7191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Matt Kew",
+      "title": "Leclerc reveals reason for late F1 Bahrain GP Q3 absence",
+      "description": "Leclerc jumped out of his SF-23 after posting his banker lap in Q3 to forfeit his shot at pole position, with the driver settling for third place by lapping 0.292s adrift of Max Verstappen and behind the second Red Bull of Sergio Perez.While this led to some …",
+      "url": "https://www.autosport.com/f1/news/leclerc-reveals-reason-for-late-f1-bahrain-gp-q3-absence/10439619/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/24v38Qq6/s6/charles-leclerc-ferrari-sf-23-.jpg",
+      "publishedAt": "2023-03-04T16:40:24Z",
+      "content": "Leclerc jumped out of his SF-23 after posting his banker lap in Q3 to forfeit his shot at pole position, with the driver settling for third place by lapping 0.292s adrift of Max Verstappen and behind… [+1846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Autosport",
+      "title": "Russell: Alonso bigger F1 Bahrain GP 'dark horse than Ferrari'",
+      "description": "After setting the fastest times in second and third practice, Alonso was in the hunt for pole position in Bahrain but ran early to set his final Q3 lap and duly qualified in fifth.The Aston Martin driver ran 0.628s adrift of polesitter Max Verstappen to also …",
+      "url": "https://www.autosport.com/f1/news/russell-alonso-bigger-f1-bahrain-gp-dark-horse-than-ferrari/10439711/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/YW7pyjKY/s6/fernando-alonso-aston-martin-a.jpg",
+      "publishedAt": "2023-03-04T18:06:36Z",
+      "content": "After setting the fastest times in second and third practice, Alonso was in the hunt for pole position in Bahrain but ran early to set his final Q3 lap and duly qualified in fifth.\r\nThe Aston Martin … [+2310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Arwa Mahdawi",
+      "title": "Worried that women will be prosecuted for using abortion pills? It’s already happening | Arwa Mahdawi",
+      "description": "Privileged women will always be able to get safe terminations but for the rest prosecutions will have a chilling effectIn October 2021 a 33-year-old woman in Greenville, South Carolina, went to the hospital with labor pains. According to a police incident rep…",
+      "url": "https://www.theguardian.com/commentisfree/2023/mar/04/abortion-pills-women-prosecution-week-in-patriarchy",
+      "urlToImage": "https://i.guim.co.uk/img/media/5919cfad37dfcaedfe310e2561d7798e84bc475e/0_249_4165_2498/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=af76aba38c7e31d07d4168df31ec25e1",
+      "publishedAt": "2023-03-04T14:00:26Z",
+      "content": "South Carolina woman arrested for taking abortion pills\r\nIn October 2021 a 33-year-old woman in Greenville, South Carolina, went to the hospital with labor pains. According to a police incident repor… [+6041 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Adam Cooper",
+      "title": "FIA has no issue with Hamilton rainbow helmet at F1 Bahrain GP",
+      "description": "This weekend’s race is the first since the controversial clampdown on the making of political statements that was announced by the FIA during the winter.It was later clarified that drivers are allowed to say what they want in interviews and press conference a…",
+      "url": "https://www.autosport.com/f1/news/fia-has-no-issue-with-hamilton-rainbow-helmet-at-f1-bahrain-gp/10439359/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/0ZRMoa80/s6/lewis-hamilton-mercedes-w14-1.jpg",
+      "publishedAt": "2023-03-04T09:44:47Z",
+      "content": "This weekends race is the first since the controversial clampdown on the making of political statements that was announced by the FIA during the winter.\r\nIt was later clarified that drivers are allow… [+2086 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Filip Cleeren",
+      "title": "F1 Bahrain GP: Alonso beats both Red Bulls again to top final practice",
+      "description": "The sweltering afternoon conditions in Sakhir were not particularly inviting for fast times, with early laps over two seconds slower than during Friday night's FP2.After some unrepresentative efforts Ferrari's Charles Leclerc went top with a 1m33.574s on soft…",
+      "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-alonso-beats-both-red-bulls-again-to-top-final-practice/10439465/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/01Wb9qvY/s6/formula-1-bahrain-february-tes-3.jpg",
+      "publishedAt": "2023-03-04T12:39:13Z",
+      "content": "The sweltering afternoon conditions in Sakhir were not particularly inviting for fast times, with early laps over two seconds slower than during Friday night's FP2.\r\nAfter some unrepresentative effor… [+2402 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Jonathan Noble",
+      "title": "Wolff: Mercedes must change car concept to return to top in F1",
+      "description": "After a disappointing qualifying for the season-opener in Bahrain, with George Russell and Lewis Hamilton qualifying sixth and seventh, Wolff said the reality of his team’s lack of performance had hit home.With the squad having pushed on with the same car con…",
+      "url": "https://www.autosport.com/f1/news/wolff-mercedes-must-change-car-concept-to-return-to-top-in-f1/10439710/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/YXRx9zK0/s6/lewis-hamilton-mercedes-f1-w14.jpg",
+      "publishedAt": "2023-03-04T17:56:45Z",
+      "content": "After a disappointing qualifying for the season-opener in Bahrain, with George Russell and Lewis Hamilton qualifying sixth and seventh, Wolff said the reality of his teams lack of performance had hit… [+2145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Adam Cooper",
+      "title": "Hamilton didn’t expect to make Bahrain GP Q3 after Mercedes F1 struggles",
+      "description": "The seven-time world champion progressed from Q2 in third place, and then qualified seventh in the final session, a place behind team-mate George Russell.Hamilton said that the team had made some good progress after a difficult Bahrain test and a disappointin…",
+      "url": "https://www.autosport.com/f1/news/hamilton-didnt-expect-to-make-bahrain-q3-after-mercedes-f1-struggles/10439697/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/6xEXW110/s6/lewis-hamilton-mercedes-w14-1.jpg",
+      "publishedAt": "2023-03-04T17:46:31Z",
+      "content": "The seven-time world champion progressed from Q2 in third place, and then qualified seventh in the final session, a place behind team-mate George Russell.\r\nHamilton said that the team had made some g… [+2565 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Bahrain GP: Alonso pips Verstappen by 0.005s in final F1 practice - Motorsport.com",
+      "description": "<ol><li>Bahrain GP: Alonso pips Verstappen by 0.005s in final F1 practice  Motorsport.com\r\n</li><li>DATA POINTS: What we learned from Friday practice in Bahrain | Formula 1®  Formula 1\r\n</li><li>Formula One season preview: Bahrain Grand Prix opens 23-race sch…",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm1vdG9yc3BvcnQuY29tL2YxL25ld3MvYmFocmFpbi1ncC1hbG9uc28tcGlwcy12ZXJzdGFwcGVuLWJ5LTAwMDVzLWluLWZpbmFsLWYxLXByYWN0aWNlLzEwNDM5NDcxL9IBcGh0dHBzOi8vd3d3Lm1vdG9yc3BvcnQuY29tL2YxL25ld3MvYmFocmFpbi1ncC1hbG9uc28tcGlwcy12ZXJzdGFwcGVuLWJ5LTAwMDVzLWluLWZpbmFsLWYxLXByYWN0aWNlLzEwNDM5NDcxL2FtcC8?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-03-04T12:38:46Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Alex Kalinauckas",
+      "title": "Red Bull drivers unconcerned by Ferrari's surprise Bahrain GP tyre tactics",
+      "description": "Ferrari driver Leclerc looked to have the potential to beat Perez and possibly even threaten eventual pole winner Verstappen for top spot, but surprisingly climbed out of his F1-75 ahead of the second and final runs.This, he and Ferrari claimed, was a tactic …",
+      "url": "https://www.autosport.com/f1/news/red-bull-drivers-unconcerned-by-ferraris-surprise-bahrain-gp-tyre-tactics/10439721/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/YBeAwk82/s6/charles-leclerc-ferrari-sf-23-.jpg",
+      "publishedAt": "2023-03-04T18:08:46Z",
+      "content": "Ferrari driver Leclerc looked to have the potential to beat Perez and possibly even threaten eventual pole winner Verstappen for top spot, but surprisingly climbed out of his F1-75 ahead of the secon… [+3040 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Kieran Jackson",
+      "title": "F1 qualifying LIVE: Lap times, stream and updates as Lewis Hamilton targets pole position at Bahrain GP",
+      "description": "Follow live updates from the first qualifying session of the 2023 F1 season at the Bahrain Grand Prix",
+      "url": "https://www.independent.co.uk/f1/f1-qualifying-live-stream-results-lap-times-b2294089.html",
+      "urlToImage": "https://static.independent.co.uk/2023/03/03/14/GettyImages-1470937089.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-03-04T10:16:40Z",
+      "content": "F1 qualifying - Bahrain Grand Prix: Fernando Alonso stuns with quickest time in second practice at Bahrain Grand Prix\r\nFernando Alonso raised the prospect of delivering a shock win at Formula Ones op… [+1204 chars]"
     },
     {
       "source": {
@@ -853,25 +229,38 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Female race academy will 'open door to F1' - Wolff",
-      "description": "F1 Academy boss Susie Wolff says the new series will increase the female talent pool and open doors to the top level of motorsport.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64825892",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/F548/production/_128829726_wolff.jpg",
-      "publishedAt": "2023-03-02T13:31:38Z",
-      "content": "At the British Grand Prix in 2014, Susie Wolff became the first women to take part in a Formula 1 weekend since Giovanna Amati in 1992 when she drove in a practice session for Williams\r\nSusie Wolff w… [+6877 chars]"
+      "title": "Bahrain Grand Prix: New Williams team boss James Vowles says task tougher than expected",
+      "description": "New Williams Formula 1 boss James Vowles says the task of leading the team back to the front is even tougher than he expected it to be.",
+      "url": "https://www.bbc.co.uk/sport/formula1/64848796",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/62E3/production/_128851352_gettyimages-1470675613.jpg",
+      "publishedAt": "2023-03-04T14:25:37Z",
+      "content": "Vowles was a central figure at Mercedes during their domination of Formula 1 from 2014 to 2021\r\nNew Williams Formula 1 boss James Vowles says the task of leading the team back to the front is even to… [+3310 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "ABC News",
+      "title": "Max Verstappen takes Bahrain F1 pole, Aussie Oscar Piastri ousted in first Q1",
+      "description": "Max Verstappen secures the first pole position of the new F1 season in Bahrain while Australia's debutant Oscar Piastri is an early elimination in qualifying.",
+      "url": "https://www.abc.net.au/news/2023-03-05/verstappen-takes-bahrain-f1-pole-piastri-ousted-in-q1/102055752",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3c2bc86e27edbe38bedbb9f43274e014?impolicy=wcms_crop_resize&cropH=2069&cropW=3678&xPos=0&yPos=159&width=862&height=485",
+      "publishedAt": "2023-03-05T02:59:55Z",
+      "content": "Formula 1 world champion Max Verstappen has shown Red Bull remains the team to beat by leading Sergio Perez to a front-row sweep in qualifying for the season-opening Bahrain Grand Prix.\r\nFerrari's Ch… [+2501 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Autoblog"
+        "name": "Japan Today"
       },
-      "author": "Jonathon Ramsey",
-      "title": "Jim Farley teases F-150 Lightning EV performance demonstrator",
-      "description": "Filed under:\n Green,Ford,Truck,Concept Cars,Electric,Future Vehicles,Performance\n Continue reading Jim Farley teases F-150 Lightning EV performance demonstrator\nJim Farley teases F-150 Lightning EV performance demonstrator originally appeared on Autoblog on T…",
-      "url": "https://www.autoblog.com/2023/02/09/ford-f150lightning-performance-teaser/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/02/09072818/ford_performance_lightning_teaser.jpg",
-      "publishedAt": "2023-02-09T13:16:00Z",
-      "content": "In December, Ford teased a new EV headed to Europe. The automaker's general manager for passenger vehicles across the Atlantic teased the Ford EV that will sit on Volkswagen's MEB platform by lifting… [+1642 chars]"
+      "author": null,
+      "title": "F1 selfie",
+      "description": "A woman takes a selfie with AlphaTauri driver Yuki Tsunoda of Japan before the third Formula One free practice at the Bahrain International Circuit in Sakhir, Bahrain, on Saturday. The Bahrain GP will be held on Sunday.",
+      "url": "https://japantoday.com/category/picture-of-the-day/f1-selfie",
+      "urlToImage": null,
+      "publishedAt": "2023-03-04T20:51:49Z",
+      "content": "A woman takes a selfie with AlphaTauri driver Yuki Tsunoda of Japan before the third Formula One free practice at the Bahrain International Circuit in Sakhir, Bahrain, on Saturday. The Bahrain GP wil… [+25 chars]"
     },
     {
       "source": {
@@ -879,428 +268,1039 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Aston Martin will not rule out shock Vettel return",
-      "description": "Aston Martin refuse to rule out the possibility of Sebastian Vettel making a shock F1 comeback at the season-opening Bahrain Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64772999",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/4547/production/_128753771_gettyimages-1442804140.jpg",
-      "publishedAt": "2023-02-25T20:28:51Z",
-      "content": "Long-time rivals Alonso and Vettel have never been team-mates\r\nAston Martin have refused to rule out the possibility of Sebastian Vettel making a shock comeback at the season-opening Bahrain Grand Pr… [+2677 chars]"
+      "title": "Bahrain Grand Prix: Fernando Alonso hails pace of new Aston Martin as 'too good to be true'",
+      "description": "Fernando Alonso says qualifying fifth ahead of both Mercedes cars in his first race for Aston Martin felt \"too good to be true\".",
+      "url": "https://www.bbc.co.uk/sport/formula1/64849739",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14A91/production/_128852648_gettyimages-1247729060.jpg",
+      "publishedAt": "2023-03-04T19:36:16Z",
+      "content": "Follow live text and radio commentary of the season-opening Bahrain Grand Prix on the BBC Sport website and app from 13:30 GMT on Sunday\r\nFernando Alonso says qualifying fifth ahead of both Mercedes … [+5037 chars]"
     },
     {
       "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Anthony Cuthbertson",
+      "title": "F1 live stream: Free links to watch Bahrain qualifying online spread despite risks",
+      "description": "Streaming sites that let Formula 1 fans watch races online for free",
+      "url": "https://www.independent.co.uk/tech/f1-live-stream-free-bahrain-gp-b2293018.html",
+      "urlToImage": "https://static.independent.co.uk/2023/03/02/16/f1%20live%20stream%202023%20free%20bahrain.png?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-03-04T12:24:10Z",
+      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nThe longest season in Formula 1 history gets underwa… [+1954 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Kieran Jackson",
+      "title": "F1 qualifying LIVE: Fernando Alonso targets shock pole at Bahrain GP – lap times, stream and results",
+      "description": "Follow live updates from the first qualifying session of the 2023 Formula 1 season at the Bahrain Grand Prix",
+      "url": "https://www.independent.co.uk/f1/f1-live-stream-qualifying-bahrain-grand-prix-b2294153.html",
+      "urlToImage": "https://static.independent.co.uk/2023/03/04/12/GettyImages-1471171376.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-03-04T14:04:59Z",
+      "content": "F1 qualifying - Bahrain Grand Prix: Lewis Hamilton says Mercedes on wrong track on eve of new F1 season\r\nA disheartened Lewis Hamilton said Mercedes are on the wrong track and fears he has fallen fur… [+1077 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Philip Duncan",
+      "title": "Mercedes to ditch this season’s car as Toto Wolff makes frank F1 title admission",
+      "description": "George Russell and Lewis Hamilton could only place sixth and seventh respectively on the starting grid in Bahrain",
+      "url": "https://www.independent.co.uk/f1/f1-mercedes-toto-wolff-lewis-hamilton-b2294281.html",
+      "urlToImage": "https://static.independent.co.uk/2023/03/04/19/88cb34eb70d1cba71c81c0e935e0f669Y29udGVudHNlYXJjaGFwaSwxNjc4MDQxNTgy-2.71219056.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-03-04T19:19:38Z",
+      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nToto Wolff has revealed that Mercedes will ditch thi… [+3120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Matt Kew",
+      "title": "Verstappen \"positively surprised\" by pole as Red Bull warns of better race pace",
+      "description": "After Red Bull appeared to be the strongest team by some margin during pre-season testing last week, Verstappen had to persevere with more understeer during Friday practice as a result of Red Bull electing to raise the ride height of its RB19.That left team-m…",
+      "url": "https://www.autosport.com/f1/news/verstappen-positively-surprised-by-pole-as-red-bull-warns-of-better-race-pace/10439644/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/YpNZ8bW0/s6/max-verstappen-red-bull-racing.jpg",
+      "publishedAt": "2023-03-04T16:59:51Z",
+      "content": "After Red Bull appeared to be the strongest team by some margin during pre-season testing last week, Verstappen had to persevere with more understeer during Friday practice as a result of Red Bull el… [+2320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RaceFans"
+      },
+      "author": "Will Wood",
+      "title": "Front wing damage cost us chance of reaching Q3 – Albon | RaceFans Round-up",
+      "description": "In the round-up: Williams could have reached Q3 - Albon • Stroll broke toe in cycling crash • Penske name first ever woman to pit crew",
+      "url": "https://www.racefans.net/2023/03/05/racefans-round-up-05-03-6/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/racefansdotnet-21-03-04-23-15-52-1.jpg",
+      "publishedAt": "2023-03-05T00:01:00Z",
+      "content": "In the round-up: Alexander Albon believes he had a genuine shot of taking a top 10 starting position for the Bahrain Grand Prix before he suffered front wing damage.\r\nJoin RaceFans on Facebook\r\nDon't… [+4377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BMWBLOG"
+      },
+      "author": "Adrian Padeanu",
+      "title": "2003 BMW X5 4.6is Imola Red Photo Shoot Is A V8 Blast From The Past",
+      "description": "The BMW X5 didn’t receive the M treatment until the second generation but the E53 generation still had V8 power. Joining the rare Neiman Marcus special edition at The Amelia is another eight-cylinder specimen with...",
+      "url": "https://www.bmwblog.com/2023/03/04/2003-bmw-x5-46is-imola-red-photo-shoot/",
+      "urlToImage": "https://cdn.bmwblog.com/wp-content/uploads/2023/03/2003-BMW-X5-4.6is-Imola-Red-41.jpg",
+      "publishedAt": "2023-03-04T07:42:28Z",
+      "content": "The BMW X5 didnt receive the M treatment until the second generation but the E53 generation still had V8 power. Joining the rare Neiman Marcus special edition at The Amelia is another eight-cylinder … [+1610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Haydn Cobb",
+      "title": "F1 Bahrain GP - Start time, how to watch & more",
+      "description": "At the start of the 2023 F1 season, Aston Martin has caught the eye with its AMR23 during pre-season testing and this pace duly translated on Friday at the Sakhir circuit as Alonso topped second practice with a best lap of 1m30.907s.Insight: What we learned f…",
+      "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-start-time-how-to-watch-more/10439368/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/63vx5ADY/s6/sergio-perez-red-bull-racing-r.jpg",
+      "publishedAt": "2023-03-04T09:59:30Z",
+      "content": "At the start of the 2023 F1 season, Aston Martin has caught the eye with its AMR23 during pre-season testing and this pace duly translated on Friday at the Sakhir circuit as Alonso topped second prac… [+3432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Jonathan Noble",
+      "title": "Imola earmarked for first F1 qualifying experiment",
+      "description": "As part of an effort to reduce the number of tyres that are brought to grands prix, at two races this year an experiment will take place for a new qualifying format.The number of tyre sets available to each driver for the weekend will be reduced from 13 to 11…",
+      "url": "https://www.autosport.com/f1/news/imola-earmarked-for-first-f1-qualifying-experiment/10439379/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/2d1QlJeY/s6/max-verstappen-red-bull-racing.jpg",
+      "publishedAt": "2023-03-04T10:09:35Z",
+      "content": "As part of an effort to reduce the number of tyres that are brought to grands prix, at two races this year an experiment will take place for a new qualifying format.\r\nThe number of tyre sets availabl… [+1722 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Haydn Cobb",
+      "title": "F1 Bahrain Grand Prix – Start time, starting grid, how to watch, & more",
+      "description": "After Aston Martin's Fernando Alonso paced two of the three practice sessions, Red Bull fought back in qualifying as reigning world champion Verstappen led a 1-2 ahead of team-mate Sergio Perez.Alonso dropped to fifth in Q3 of qualifying, falling behind both …",
+      "url": "https://www.autosport.com/f1/news/f1-bahrain-grand-prix-start-time-starting-grid-how-to-watch-more/10439702/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/YN19k7P2/s6/lewis-hamilton-mercedes-f1-w14.jpg",
+      "publishedAt": "2023-03-04T17:52:38Z",
+      "content": "After Aston Martin's Fernando Alonso paced two of the three practice sessions, Red Bull fought back in qualifying as reigning world champion Verstappen led a 1-2 ahead of team-mate Sergio Perez.\r\nAlo… [+3729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neowin"
+      },
+      "author": "Pulasthi Ariyasinghe",
+      "title": "Weekend PC Game Deals: Massive charity bundle, Ubisoft specials, and more",
+      "description": "This weekend's PC game deals include a huge charity bundle from Humble dedicated to earthquake disaster relief, freebies from Epic and Steam stores, a Ubisoft publisher sale, and more. Read more...",
+      "url": "https://www.neowin.net/news/weekend-pc-game-deals-massive-charity-bundle-ubisoft-specials-and-more/",
+      "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2019/03/1551472873_3_story.jpg",
+      "publishedAt": "2023-03-04T09:30:01Z",
+      "content": "Weekend PC Game Deals is where the hottest gaming deals from all over the internet are gathered into one place, every week, for your consumption. So kick back, relax, and hold on to your wallets.\r\nHu… [+2967 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Jonathan Noble",
+      "title": "AI replays and Augmented Reality: What’s new for F1’s TV coverage in 2023",
+      "description": "Some of the most significant changes in the way F1 is broadcast have taken place behind the scenes, especially with its production facility at Biggin Hill in the UK having been revamped this winter to make it state-of-the art. But where F1 never stands still …",
+      "url": "https://www.autosport.com/f1/news/ai-replays-and-more-augmented-reality-whats-new-for-f1s-tv-coverage-in-2023/10439342/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/0oOEWB10/s6/formula-1-news-2023-prototype--2.jpg",
+      "publishedAt": "2023-03-04T09:15:25Z",
+      "content": "Some of the most significant changes in the way F1 is broadcast have taken place behind the scenes, especially with its production facility at Biggin Hill in the UK having been revamped this winter t… [+7191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cocolog-nifty.com"
+      },
+      "author": "FMotorsports",
+      "title": "右手首を痛めていたストロール(アストンマーティン)",
+      "description": "Lance Stroll (C)Aston Martin F1 Team\n拡大し...",
+      "url": "http://fmotorsports.cocolog-nifty.com/f107/2023/03/post-97a0e7.html",
+      "urlToImage": "http://fmotorsports.cocolog-nifty.com/.shared-cocolog/nifty_managed/images/web/ogp/default.png",
+      "publishedAt": "2023-03-04T19:49:34Z",
+      "content": "Lance Stroll (C)Aston Martin F1 Team拡大しますオフ・トレーニング中に見舞われたアクシデントより、一時はバーレーンGPの欠場も懸念されていたアストンマーティンのランス・ストロールだが、噂に上がった骨折などはなかったものの車載カメラにはコクピット内で苦戦する様子が確認された。それによれば痛めたのは右手首ということで、右に大きくステアリングを切る際には左手で補うよう… [+11371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Jonathan Noble",
+      "title": "FIA tweaks F1 pitlane exit rules following Verstappen controversy",
+      "description": "In the wake of Verstappen’s third-place finish in Monte Carlo, as Red Bull team-mate Sergio Perez triumphed, both drivers found themselves subject to a Ferrari protest about crossing the pitlane exit line. During an early change of tyres on the damp but dryin…",
+      "url": "https://www.autosport.com/f1/news/fia-tweaks-f1-pitlane-exit-rules-following-verstappen-controversy/10439329/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/0RrjWpV0/s6/sergio-perez-red-bull-racing-r.jpg",
+      "publishedAt": "2023-03-04T08:57:00Z",
+      "content": "In the wake of Verstappens third-place finish in Monte Carlo, as Red Bull team-mate Sergio Perez triumphed, both drivers found themselves subject to a Ferrari protest about crossing the pitlane exit … [+2351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Adam Cooper",
+      "title": "Aston Martin hit “aggressive” development targets for 2023 F1 car",
+      "description": "Fallows joined Aston Martin in April 2022 as part of owner Lawrence Stroll’s recruitment drive, having spent 16 years as one of Adrian Newey’s key lieutenants at Red Bull.The revised design team that also includes former Mercedes aero chief Eric Blandin creat…",
+      "url": "https://www.autosport.com/f1/news/aston-martin-hit-aggressive-development-targets-for-2023-f1-car/10439336/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/YMdyeDg2/s6/formula-1-bahrain-gp-2023-lanc-2.jpg",
+      "publishedAt": "2023-03-04T13:01:57Z",
+      "content": "Fallows joined Aston Martin in April 2022 as part of owner Lawrence Strolls recruitment drive, having spent 16 years as one of Adrian Neweys key lieutenants at Red Bull.\r\nThe revised design team that… [+2325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GoNintendo"
+      },
+      "author": "rawmeatcowboy",
+      "title": "F1-inspired 'Ala Mobile' now available on Switch",
+      "description": "Make sure to hit that draft",
+      "url": "https://gonintendo.com/contents/17099-f1-inspired-ala-mobile-now-available-on-switch",
+      "urlToImage": "https://gonintendo.com/attachments/image/24300/file/medium-421808ef24ab8dc4767038fe5dfa8946.png",
+      "publishedAt": "2023-03-04T08:28:00Z",
+      "content": "Developer Vincenzo Cosentino and publisher CVi Games have released Ala Mobile on Switch today. The game is priced at $15 and takes up 323 MB of space.\r\nAla Mobile is an open-wheel racing game in whic… [+886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RaceFans"
+      },
+      "author": "RJ O'Connell",
+      "title": "Grosjean leads all-Andretti front row after crash-strewn St. Petersburg qualifying | IndyCar",
+      "description": "F1 veteran Romain Grosjean leads F1 hopeful Colton Herta to the green flag for tomorrow's IndyCar season-opener in St. Petersburg.",
+      "url": "https://www.racefans.net/2023/03/04/grosjean-leads-all-andretti-front-row-after-crash-strewn-st-petersburg-qualifying/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/Romain-Grosjean-Firestone-Grand-Prix-of-St_-Petersburg-By_-Chris-Jones_LargeImageWithoutWatermark_m74429.jpg",
+      "publishedAt": "2023-03-04T21:06:23Z",
+      "content": "Andretti Autosport locked out the front row in qualifying for the IndyCar Grand Prix of St. Petersburg, with ten-year Formula 1 veteran Romain Grosjean winning pole position, ahead of F1 aspirant Col… [+5676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Steve Walton",
+      "title": "Intel Arc GPU Re-Review: New Drivers, New Performance?",
+      "description": "Ever since Intel Arc GPUs launched, driver updates have kept coming with the promise of solid performance gains. It's now time to test those claims and see if reality matches up with the hype.Read Entire Article",
+      "url": "https://www.techspot.com/review/2634-intel-arc-a770-a750-revisit/",
+      "urlToImage": "https://static.techspot.com/articles-info/2634/images/2023-03-03-image.jpg",
+      "publishedAt": "2023-03-04T13:16:00Z",
+      "content": "Ever since Intel Arc GPUs launched, the processor giant promised to offer regular driver updates. So far they have kept true to its word and there's been no shortage of new software, citing bug fixes… [+14166 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RaceFans"
+      },
+      "author": "Ida Wood",
+      "title": "Every F1 driver’s helmet for the 2023 season | 2023 F1 season",
+      "description": "With racing getting underway once more in Bahrain this weekend, here is RaceFans' guide to the designs each of the drivers is wearing in 2023.",
+      "url": "https://www.racefans.net/2023/03/04/every-f1-drivers-helmet-for-the-2023-season/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/2023-helmets.jpg",
+      "publishedAt": "2023-03-04T13:54:07Z",
+      "content": "A new season means new helmet designs for the 20 participants in this year’s Formula 1 world championship. Or, if not new, slightly revised in many cases.\r\nWith racing getting underway once more in B… [+9407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Tamara Prenn",
+      "title": "F1 arcade is the immersive gaming experience that aims to make you feel like a Formula One driver",
+      "description": "The F1 Arcade in central London is a social gaming space 'designed to make you feel like a champion'. But can it measure up to a real Formula One drive? Sportsmail put the space's race simulators to the test.",
+      "url": "https://www.dailymail.co.uk/sport/formulaone/article-11817535/F1-arcade-immersive-gaming-experience-aims-make-feel-like-Formula-One-driver.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/03/17/68309265-0-image-a-16_1677866020124.jpg",
+      "publishedAt": "2023-03-04T08:35:19Z",
+      "content": "When the latest Formula One season gets underway in Bahrain on Sunday, 20 drivers will battle it out in an adrenaline-fuelled contest unimaginable for all but the chosen few who are skilled enough to… [+4099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Juancole.com"
+      },
+      "author": "Juan Cole",
+      "title": "Saudi Arabia and Sport: a strategic Gamble aiming for economic, political and social Goals",
+      "description": "By Simon Chadwick, SKEMA Business School | - Boxing purists may argue over the sporting value of a fight between a reality TV star and a former YouTube prankster. But the commercial value of the massively hyped event in February 2023 was clear for both the co…",
+      "url": "https://www.juancole.com/2023/03/strategic-economic-political.html",
+      "urlToImage": "https://media.juancole.com/images/2023/03/saudi-arabia-and-sport-a-strateg.jpg",
+      "publishedAt": "2023-03-04T05:04:32Z",
+      "content": "By Simon Chadwick, SKEMA Business School | – \r\nBoxing purists may argue over the sporting value of a fight between a reality TV star and a former YouTube prankster. But the commercial value of the ma… [+4810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Nate Saunders",
+      "title": "Alonso says Aston 'living a dream', eyes podium",
+      "description": "The Fernando Alonso hype might have been overblown, but the Aston Martin driver said being in the mix with Ferrari and Mercedes was beyond his wildest expectations for F1's opening race.",
+      "url": "https://www.espn.com/f1/story/_/id/35782880/fernando-alonso-says-aston-martin-living-dream-eyes-bahrain-gp-podium",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0304%2Fr1139507_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-03-04T18:00:58Z",
+      "content": "SAKHIR, Bahrain -- Eight months after gambling on a move to Aston Martin, Fernando Alonso said he could not believe he has a car to fight for a podium at the Bahrain Grand Prix -- even if Saturday's … [+2582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livedoor.jp"
+      },
+      "author": "drazuli",
+      "title": "「もし自分がホグワーツの校長だったら変更したいルール」海外の反応",
+      "description": "Comment by lolilololokoもし君がホグワーツの校長だったらどんなルールを変更する？reddit.com/r/harrypotter/comments/1194cnv/if_you_were_a_headmaster_at_hogwarts_what_rules/関連記事「ハリポタで『魔法的』かと思っていたら実は『イギリス的』だったもの」海外の反応...",
+      "url": "http://blog.livedoor.jp/drazuli/archives/10274113.html",
+      "urlToImage": null,
+      "publishedAt": "2023-03-04T03:00:02Z",
+      "content": "reddit.com/r/harrypotter/comments/1194cnv/if_you_were_a_headmaster_at_hogwarts_what_rules/\r\nComment by Dhaatri 2363 \r\nComment by ThePumpk1nMaster 49 \r\nF1\r\nComment by Radixmesos 998 \r\nComment by Jedda… [+2277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RaceFans"
+      },
+      "author": "Keith Collantine",
+      "title": "Live: 2023 Bahrain Grand Prix third practice | RaceFans Live",
+      "description": "Follow the 2023 Bahrain Grand Prix third practice session on RaceFans Live.",
+      "url": "https://www.racefans.net/2023/03/04/live-2023-bahrain-grand-prix-third-practice/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2018/02/racefans-live.gif",
+      "publishedAt": "2023-03-04T11:15:00Z",
+      "content": "Join us to follow the 2023 Bahrain Grand Prix third practice session on RaceFans Live.\r\nRaceFans Live combines updates from the teams and drivers in real-time via Twitter with comments from RaceFans … [+552 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RaceFans"
+      },
+      "author": "Keith Collantine",
+      "title": "Live: 2023 Bahrain Grand Prix qualifying | RaceFans Live",
+      "description": "Follow the 2023 Bahrain Grand Prix qualifying session on RaceFans Live.",
+      "url": "https://www.racefans.net/2023/03/04/live-2023-bahrain-grand-prix-qualifying/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2018/02/racefans-live.gif",
+      "publishedAt": "2023-03-04T14:00:00Z",
+      "content": "Join us to follow the 2023 Bahrain Grand Prix qualifying session on RaceFans Live.\r\nRaceFans Live combines updates from the teams and drivers in real-time via Twitter with comments from RaceFans read… [+544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RaceFans"
+      },
+      "author": "Keith Collantine",
+      "title": "2023 Bahrain Grand Prix qualifying in pictures | F1 Pictures",
+      "description": "Pictures for qualifying for the 2023 Bahrain Grand Prix at Bahrain International Circuit.",
+      "url": "https://www.racefans.net/2023/03/04/2023-bahrain-grand-prix-qualifying-in-pictures/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/Saturday-at-Bahrain-GPXPB_1192291_HiRes.jpg",
+      "publishedAt": "2023-03-04T16:45:48Z",
+      "content": "Pictures for qualifying and final practice for the 2023 Bahrain Grand Prix at Bahrain International Circuit.\r\nAdvert | Become a RaceFans supporter and go ad-free\r\n Max Verstappen, Red Bull, Bahrain I… [+4478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RaceFans"
+      },
+      "author": "Will Wood",
+      "title": "Leclerc suspects Aston Martin won’t be as quick on Saturday | RaceFans Round-up",
+      "description": "In the round-up: Leclerc doubts Aston Martin will retain pace in qualifying • Pourchaire storms to F2 pole • Mini takes pole on FIA F3 debut",
+      "url": "https://www.racefans.net/2023/03/04/racefans-round-up-04-03-6/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/racefansdotnet-2023-03-03_1641491.jpg",
+      "publishedAt": "2023-03-04T00:01:00Z",
+      "content": "In the round-up: Charles Leclerc says he suspects that Aston Martin will not be able to emulate their session-topping performance from Friday practice in today’s qualifying sessionIn brief\r\nAston Mar… [+3691 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Dan Ripley",
+      "title": "Lewis Hamilton was left 'punch-drunk' after bitter F1 title loss, claims David Coulthard",
+      "description": "Lewis Hamilton still has his best ability to compete for world titles ahead of the F1 opener in Bahrain on Sunday despite having suffered his worst season, insists David Coulthard.",
+      "url": "https://www.dailymail.co.uk/sport/formulaone/article-11807915/Lewis-Hamilton-left-punch-drunk-bitter-F1-title-loss-claims-David-Coulthard.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/03/21/68318339-0-image-a-3_1677879191571.jpg",
+      "publishedAt": "2023-03-04T09:53:03Z",
+      "content": "Lewis Hamilton still has his best ability to compete for world titles ahead of the F1 opener in Bahrain on Sunday despite having suffered his worst season, insists David Coulthard.\r\nThe seven-time wo… [+3969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Sam Brookes",
+      "title": "Bahrain Grand Prix qualifying - F1 LIVE: Updates as Lewis Hamilton challenges Max Verstappen",
+      "description": "Follow Sportsmail's live blog for qualifying at the Bahrain Grand Prix as Lewis Hamilton looks to challenge Max Verstappen, who is set to begin his second F1 title defence.",
+      "url": "https://www.dailymail.co.uk/sport/live/article-11816229/Bahrain-Grand-Prix-qualiyfing-2023-F1-live-result.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/04/11/68331005-0-image-a-2_1677931171394.jpg",
+      "publishedAt": "2023-03-04T13:32:51Z",
+      "content": "Do you want to automatically post your MailOnline comments to your Facebook Timeline?\r\nYour comment will be posted to MailOnline as usual\r\n We will automatically post your comment and a link to the n… [+427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "James Cooney",
+      "title": "McLaren F1 rookie Oscar Piastri wowed fans with stunning bit of driving to avoid disaster",
+      "description": "Oscar Piastri has failed to get past the first stage of qualifying in his debut F1 grand prix in Bahrain, but the rookie from Melbourne has impressed fans by dodging disaster during practice.",
+      "url": "https://www.dailymail.co.uk/sport/formulaone/article-11821953/McLaren-F1-rookie-Oscar-Piastri-wowed-fans-stunning-bit-driving-avoid-disaster.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/05/03/68347381-0-image-a-203_1677987032534.jpg",
+      "publishedAt": "2023-03-05T03:49:50Z",
+      "content": "Oscar Piastri has failed to get past the first stage of qualifying in his debut F1 grand prix in Bahrain, but the rookie has impressed fans by dodging disaster during practice.\r\nThe 21-year-old from … [+3581 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Arthur Parashar",
+      "title": "Drake's mad betting habit: How much has the rapper won or lost?",
+      "description": "At times, Drake has raked in millions, but the rapper has also managed to pick up the reputation of bringing a curse down on those who he backs.",
+      "url": "https://www.dailymail.co.uk/sport/othersports/article-11807629/Drakes-mad-betting-habit-rapper-won-lost.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/01/14/68214661-0-image-a-7_1677680391530.jpg",
+      "publishedAt": "2023-03-04T08:45:28Z",
+      "content": "Multi-award winning superstar Drake is known for his record-breaking music albums but alongside his rapping exploits, he has picked up a quite staggering betting habit.\r\nThe Canadian rapper has gaine… [+7726 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
       },
       "author": null,
-      "title": "Wolff appointed head of female series F1 Academy",
-      "description": "Susie Wolff is appointed managing director of the F1 Academy, an all-female series aimed at helping women drivers progress through motorsport.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64811618",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/149CF/production/_128813448_gettyimages-1242182052.jpg",
-      "publishedAt": "2023-03-01T13:17:05Z",
-      "content": "Abbi Pulling is regarded as one of the UK's best hopes to find a female F1 driver\r\nSusie Wolff has been appointed managing director of the F1 Academy, an all-female series aimed at helping women driv… [+2194 chars]"
+      "title": "Verstappen beats Perez to pole for 2023 opener in Bahrain GP qualifying thriller - Formula 1",
+      "description": "<ol><li>Verstappen beats Perez to pole for 2023 opener in Bahrain GP qualifying thriller  Formula 1\r\n</li><li>Formula One season preview: Bahrain Grand Prix opens 23-race schedule  The Washington Post\r\n</li><li>Mercedes are on the wrong track, says Hamilton  …",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5mb3JtdWxhMS5jb20vZW4vbGF0ZXN0L2FydGljbGUudmVyc3RhcHBlbi1iZWF0cy1wZXJlei10by1wb2xlLWZvci0yMDIzLW9wZW5lci1pbi1iYWhyYWluLWdwLXF1YWxpZnlpbmcuN3VVRDFHN01kaGpyUzdGVHh6MlAyLmh0bWzSAY0BaHR0cHM6Ly9hbXAuZm9ybXVsYTEuY29tL2VuL2xhdGVzdC9hcnRpY2xlLnZlcnN0YXBwZW4tYmVhdHMtcGVyZXotdG8tcG9sZS1mb3ItMjAyMy1vcGVuZXItaW4tYmFocmFpbi1ncC1xdWFsaWZ5aW5nLjd1VUQxRzdNZGhqclM3RlR4ejJQMi5odG1s?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-03-04T17:01:44Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "HYPEBEAST"
+        "name": "pitpass.com"
       },
-      "author": "info@hypebeast.com (Hypebeast)",
-      "title": "Here are the Top 5 Formula 1 Liveries for 2023",
-      "description": "All 10 Formula 1 teams have unveiled their new liveries for the 2023 season. Over the weekend, F1 fans cast more than 80,000 votes for their favorite colorways and designs. Mercedes won convincingly this year, opting to revert to their 2020 and 2021 black liv…",
-      "url": "https://hypebeast.com/2023/2/here-are-the-top-5-formula-1-liveries-for-2023-voted-by-fans",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Fformula-1-top-5-liveries-for-2023-fan-vote-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "publishedAt": "2023-02-23T03:15:59Z",
-      "content": "All 10 Formula 1 teams have unveiled their new liveries for the 2023 season. Over the weekend, F1 fans cast more than 80,000 votes for their favorite colorways and designs. Mercedes won convincingly … [+1630 chars]"
+      "author": "editor@pitpass.com (Editor)",
+      "title": "Bahrain GP: Qualifying team notes - Haas",
+      "description": "It was a pretty good day for us today. All the work that was put in last year and over winter to make and develop this car has come to fruition.",
+      "url": "https://www.pitpass.com/74604/Bahrain-GP-Qualifying-team-notes-Haas",
+      "urlToImage": "http://www.pitpass.com/images/races/800/2023bahrainsaturday02.jpg",
+      "publishedAt": "2023-03-04T17:25:00Z",
+      "content": "MoneyGram Haas F1 Team drivers Nico Hulkenberg and Kevin Magnussen qualified 10th and 17th respectively for the Bahrain Grand Prix, Round 1 of the 2023 FIA Formula 1 World Championship.\r\nQ1, the open… [+2357 chars]"
     },
     {
       "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
+        "id": null,
+        "name": "pitpass.com"
+      },
+      "author": "editor@pitpass.com (Editor)",
+      "title": "Bahrain GP: Qualifying team notes - Alfa Romeo",
+      "description": "Today's result is a good first step and a platform on which we can build on to score points tomorrow.",
+      "url": "https://www.pitpass.com/74606/Bahrain-GP-Qualifying-team-notes-Alfa-Romeo",
+      "urlToImage": "http://www.pitpass.com/images/races/800/2023bahrainsaturday04.jpg",
+      "publishedAt": "2023-03-04T17:43:00Z",
+      "content": "Alfa Romeo F1 Team Stake qualified on the verge of Q3 under the Sakhir lights. Valtteri Bottas and Zhou Guanyu set the 12th and 13th fastest times as they claimed their spot on the grid for tomorrow'… [+2486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
       },
       "author": null,
-      "title": "Ben Sulayem to step back from direct F1 involvement",
-      "description": "Motorsport boss Mohammed Ben Sulayem says he will take a step back from direct involvement in Formula 1.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64572992",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/15032/production/_128566068_f1.jpg",
-      "publishedAt": "2023-02-08T14:41:54Z",
-      "content": "Mohammed Ben Sulayem was elected president of the FIA in December 2021\r\nMotorsport boss Mohammed Ben Sulayem says he will take a step back from direct involvement in Formula 1.\r\nThe 61-year-old's mov… [+2174 chars]"
+      "title": "Let's Talk Formula 1: Episode 1 - drivers at the ready as season kicks off in Bahrain",
+      "description": "Ahead of the first Formula One Grand Prix of the season on Sunday in Bahrain, Shane Brennan has broken down the favourites, the drivers to watch and who is under pressure.",
+      "url": "https://www.independent.ie/sport/other-sports/motor-sport/lets-talk-formula-1-episode-1-drivers-at-the-ready-as-season-kicks-off-in-bahrain-42369649.html",
+      "urlToImage": "https://www.independent.ie/videos/f544f/42369579.ece/AUTOCROP/w1240h700/5448823-1677890363948956_10.jpg",
+      "publishedAt": "2023-03-04T08:33:22Z",
+      "content": "Ahead of the first Formula One Grand Prix of the season on Sunday in Bahrain, Shane Brennan has broken down the favourites, the drivers to watch and who is under pressure.It is set to be another memo… [+3995 chars]"
     },
     {
       "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
+        "id": null,
+        "name": "pitpass.com"
+      },
+      "author": "editor@pitpass.com (Editor)",
+      "title": "\"No problem,\" insists Stroll",
+      "description": "Lance Stroll insists that he is fit to continue driving despite on-board footage showing him having difficulty.",
+      "url": "https://www.pitpass.com/74597/No-problem-insists-Stroll",
+      "urlToImage": "http://www.pitpass.com/images/races/800/2023bahrain_friday_o050.jpg",
+      "publishedAt": "2023-03-04T09:18:00Z",
+      "content": "Lance Stroll insists that he is fit to continue driving despite on-board footage showing him having difficulty.\r\nEarly in the opening session, when given some advice, the Canadian's mood became clear… [+1374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "The Telegraph",
+      "title": "Mercedes make Lewis Hamilton vow after sobering Bahrain qualifying result",
+      "description": "Toto Wolff finally admitted Mercedes got their car concept wrong last year and that they will now need a complete “change of direction” if they want to get back to winning world titles.",
+      "url": "https://sports.yahoo.com/bahrain-grand-prix-2023-qualifying-134651958.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZZkMJ.qlFJB0Y4ZyTtOzbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDc-/https://media.zenfs.com/en/the_telegraph_258/90ae069954d3b518fae887a1a71189fa",
+      "publishedAt": "2023-03-04T20:46:22Z",
+      "content": "Mercedes make Lewis Hamilton vow after sobering Bahrain qualifying result - Reuters/Rula Rouhana\r\nToto Wolff finally admitted Mercedes got their car concept wrong last year and that they will now nee… [+31156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Milestomemories.com"
+      },
+      "author": "Shawn Coomer",
+      "title": "Caesars Demolishing History, Circus Circus Renovation & Bellagio’s Insane F1 FountainClub!",
+      "description": "Circus Circus is under the knife, but will it make a difference? We also discuss the bougie Bellagio F1 FountainClub, Caesars taking out a piece of history and a new unique reality show being filmed in Las Vegas. \nThe post Caesars Demolishing History, Circus …",
+      "url": "https://milestomemories.com/circus-circus-under-the-knife/",
+      "urlToImage": "https://milestomemories.com/wp-content/uploads/2022/07/mtm-vegas-video-featured-1.jpg",
+      "publishedAt": "2023-03-04T22:07:22Z",
+      "content": "Highest Ever! - IHG Rewards Premier 175K Offer\r\nThis post may contain affiliate links; please read our advertiser disclosure for more information.\r\nOn this weeks MtM Vegas we have so much to talk abo… [+1830 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Charles Curtis",
+      "title": "F1 drivers 2023: Meet the 20 who will compete for a championship this season",
+      "description": "A look at the F1 drivers and teams for 2023.",
+      "url": "https://ftw.usatoday.com/lists/f1-drivers-2023-teams-list",
+      "urlToImage": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2023/03/AFP-AFP_33AH647.jpg?w=1024&h=576&crop=1",
+      "publishedAt": "2023-03-04T13:23:11Z",
+      "content": "The red lights are finally about to go out for the 2023 Formula 1 season, with Max Verstappen and Red Bull looking to defend their respective drivers and constructors championships.\r\nAnd as usual, th… [+1162 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fly4free.com"
+      },
+      "author": "João",
+      "title": "Cheap Spring non-stop flights from Budapest to Dubai from €82",
+      "description": "Book cheap, non-stop flights from Budapest, Hungary, to Dubai, UAE for only €82 for a round trip with Wizz Air!",
+      "url": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-hungary-to-dubai-3/",
+      "urlToImage": "https://com.f4fcdn.eu/wp-content/uploads/2021/09/750px_ST_Dubai_14_11-3.jpg",
+      "publishedAt": "2023-03-04T10:15:36Z",
+      "content": "Abu DhabiThe capital of the United Arab Emirates sits off the mainland on an island in the Persian Gulf. Abu Dhabi presents an eclectic mix of old and new, traditional and modern, past and future. Tr… [+1089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pitpass.com"
+      },
+      "author": "editor@pitpass.com (Editor)",
+      "title": "Bahrain GP: Qualifying team notes - McLaren",
+      "description": "With decent long-run pace we can make good with both cars and target points tomorrow.",
+      "url": "https://www.pitpass.com/74607/Bahrain-GP-Qualifying-team-notes-McLaren",
+      "urlToImage": "http://www.pitpass.com/images/races/800/2023bahrainsaturday05.jpg",
+      "publishedAt": "2023-03-04T17:47:00Z",
+      "content": "Lando Norris: \"P11 in the first qualifying of the year, I would say I'm reasonably happy with that. I think we pretty much got everything out of the car. There maybe was a tenth left in it but I need… [+1550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RaceFans"
+      },
+      "author": "Will Wood",
+      "title": "Verstappen leads Red Bull front row lock-out after Leclerc sits out last run | 2023 Bahrain Grand Prix qualifying",
+      "description": "World champion Max Verstappen secured pole position ahead of Red Bull team mate Sergio Perez for the opening round of the Formula 1 season in Bahrain.",
+      "url": "https://www.racefans.net/2023/03/04/verstappen-leads-red-bull-front-row-lock-out-after-leclerc-sits-out-last-run/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/Saturday-at-Bahrain-GPSI202303040315_hires_jpeg_24bit_rgb.jpg",
+      "publishedAt": "2023-03-04T16:21:57Z",
+      "content": "World champion Max Verstappen has secured pole position ahead of Red Bull team mate Sergio Perez for the opening round of the Formula 1 season in Bahrain.\r\nVerstappen improved on his own provisional … [+8075 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Megan White",
+      "title": "F2 Bahrain: Boschung claims maiden victory on 96th start",
+      "description": "The series veteran, driving for Campos Racing, was untroubled throughout the 23-lap sprint race, leading from the off before cruising home 10 seconds clear of second-placed driver Dennis Hauger.Boschung had claimed four podiums across the past six seasons in …",
+      "url": "https://www.autosport.com/formula2/news/f2-bahrain-boschung-claims-maiden-victory-on-96th-start/10439533/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/2jXnqXk6/s6/fia-f2-bahrain-2023-ralph-bosc-3.jpg",
+      "publishedAt": "2023-03-04T14:20:49Z",
+      "content": "The series veteran, driving for Campos Racing, was untroubled throughout the 23-lap sprint race, leading from the off before cruising home 10 seconds clear of second-placed driver Dennis Hauger.\r\nBos… [+2687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pitpass.com"
+      },
+      "author": "editor@pitpass.com (Editor)",
+      "title": "Bahrain GP: Qualifying team notes - Alpine",
+      "description": "In general, that's not where we aim to be, and we certainly have improvements to make to ensure we're qualifying in much stronger positions at later races.",
+      "url": "https://www.pitpass.com/74608/Bahrain-GP-Qualifying-team-notes-Alpine",
+      "urlToImage": "http://www.pitpass.com/images/logos/800/2022austriathursday01.jpg",
+      "publishedAt": "2023-03-04T17:54:00Z",
+      "content": "BWT Alpine F1 Team qualified with Esteban Ocon in ninth place and Pierre Gasly in twentieth place as the first Qualifying session of the 2023 FIA Formula 1 Championship took place at the Bahrain Inte… [+2644 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Agence France-Presse",
+      "title": "'Long Way Off And On Wrong Track,' Admits Hamilton After More F1 Woe",
+      "description": "The seven-time world champion, who is in the final year of his current contract, said he had half-expected to discover a performance deficit, but not one as alarming",
+      "url": "https://sports.ndtv.com/formula-1/long-way-off-and-on-wrong-track-admits-lewis-hamilton-after-more-f1-woe-3833523",
+      "urlToImage": "https://c.ndtvimg.com/2022-09/m56jdv1_lewis-hamilton_625x300_08_September_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2023-03-04T03:46:09Z",
+      "content": "A disappointed Lewis Hamilton admitted Mercedes were \"a long way off\" the pace and struggling to close the gap after he finished eighth in Friday's second practice at the season-opening Bahrain Grand… [+2076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RaceFans"
+      },
+      "author": "Keith Collantine",
+      "title": "Alonso expects mistakes as “new” Aston Martin team joins fight at front | 2023 Bahrain Grand Prix",
+      "description": "Fernando Alonso expects Aston Martin will make mistakes as the team begins to compete with Formula 1's front-runners.",
+      "url": "https://www.racefans.net/2023/03/04/alonso-expects-mistakes-as-new-aston-martin-team-joins-fight-at-front/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/racefansdotnet-23-03-03-21-00-54-1.jpg",
+      "publishedAt": "2023-03-04T08:10:41Z",
+      "content": "Fernando Alonso expects Aston Martin will make mistakes as the team begins to compete with Formula 1’s front-runners.\r\nAfter heading the times on the first day of practice for the new season, Alonso … [+2755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Chris Trapasso",
+      "title": "Anthony Richardson makes NFL combine history: Why Florida QB has what it takes to be No. 1 pick in NFL Draft",
+      "description": "Richardson set multiple QB combine records Saturday",
+      "url": "https://www.cbssports.com/nfl/draft/news/anthony-richardson-makes-nfl-combine-history-why-florida-qb-has-what-it-takes-to-be-no-1-pick-in-nfl-draft/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/04/1339363e-cfc8-4c58-97d2-88361a50dc22/thumbnail/1200x675/fd6105da810e9217b68899ae13bb8304/anthony-richardson.jpg",
+      "publishedAt": "2023-03-04T22:59:47Z",
+      "content": "Anthony Richardson blew the roof off Lucas Oil Stadium at the 2023 NFL Combine with a record-setting performance that featured an official 4.43 time in the 40-yard dash, the highest vertical by a QB … [+7257 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Joshua Rhett Miller",
+      "title": "From Florida to Formula 1: Logan Sargeant on racing’s biggest stage",
+      "description": "Logan Sargeant, a Florida native, readies for the biggest race of his young career as America's first F1 driver since 2015.",
+      "url": "https://nypost.com/2023/03/04/meet-logan-sargeant-americas-first-f1-driver-in-8-years/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/f1-logan.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-03-04T15:40:23Z",
+      "content": "As a boy growing up in south Florida, Logan Hunter Sargeant savored every pulse-pounding second while chasing his older brother on anything with wheels. \r\nMany miles later, that insatiable pursuit ha… [+7228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pitpass.com"
+      },
+      "author": "editor@pitpass.com (Editor)",
+      "title": "Verstappen and Perez lock-out Bahrain front row",
+      "description": "Max Verstappen storms to pole in Bahrain ahead of teammate Sergio Perez and the Ferraris, as Alonso and the Mercedes pair are over 0.6s off the pace.",
+      "url": "https://www.pitpass.com/74602/Verstappen-and-Perez-lock-out-Bahrain-front-row",
+      "urlToImage": "http://www.pitpass.com/images/races/800/2023bahrainsaturday01.jpg",
+      "publishedAt": "2023-03-04T16:38:00Z",
+      "content": "Ahead of today's qualifying session the air temperature is 25 degrees C, while the track temperature is 30 degrees.\r\nThe big question, of course, is can he do it?\r\nAnd by he we mean Fernando Alonso, … [+5759 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Today"
+      },
+      "author": "Pranav Dixit",
+      "title": "Red Bull's Max Verstappen takes first pole of the F1 season at Bahrain Grand Prix",
+      "description": "Red Bull's world champion Max Verstappen has taken the pole position for Formula One's season-opening Bahrain Grand Prix",
+      "url": "https://www.businesstoday.in/latest/trends/story/red-bull-max-verstappen-takes-first-pole-of-the-f1-season-at-bahrain-grand-prix-372261-2023-03-04",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202303/tnpac76burofvb3bnxvyftwqt4-sixteen_nine.jpg",
+      "publishedAt": "2023-03-04T16:12:04Z",
+      "content": "Red Bull's world champion Max Verstappen has taken the pole position for Formula One's season-opening Bahrain Grand Prix on Saturday with his fellow Red Bull compatriot Sergio Perez starting at the n… [+494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "mirrornews@mirror.co.uk (Ben Parsons)",
+      "title": "Ted Kravitz suggests George Russell is \"a fool\" for F1 complaint ahead of Bahrain GP",
+      "description": "Sky Sports reporter Ted Kravitz has responded to George Russell's assertion that F1 should make a testing change and believes the current schedule is perfectly fine",
+      "url": "https://www.mirror.co.uk/sport/formula-1/george-russell-ted-kravitz-f1-29371359",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article29366222.ece/ALTERNATES/s1200/0_Ted-Kravitz-Sky-Sports-030323.jpg",
+      "publishedAt": "2023-03-04T10:48:07Z",
+      "content": "Sky Sports pit lane reporter Ted Kravitz has suggested George Russell is a \"fool\" for his complaints about limited F1 pre-season testing. \r\nF1 teams were permitted just three days to test their new v… [+2272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
       },
       "author": null,
-      "title": "F1 will never put a gag on anyone - Domenicali",
-      "description": "Formula 1 president Stefano Domenicali says the sport will \"never put a gag on anyone\" amid controversy over freedom of speech.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64563358",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/130B/production/_128557840_gettyimages-1441014451.jpg",
-      "publishedAt": "2023-02-07T22:43:38Z",
-      "content": "Formula 1 president Stefano Domenicali says he expects the FIA to clarify its position\r\nFormula 1 president Stefano Domenicali says the sport will \"never put a gag on anyone\" amid ongoing controversy… [+2811 chars]"
+      "title": "Man Utd takeover: Sheikh Jassim and Ratcliffe bids through to next stage",
+      "description": "The two leading bidders for Manchester United have been told that they have made it through to the next stage of the process.",
+      "url": "https://www.skysports.com/football/news/11667/12826140/manchester-united-takeover-sheikh-jassim-bin-hamad-al-thani-and-sir-jim-ratcliffe-bids-through-to-next-stage",
+      "urlToImage": "https://e0.365dm.com/23/02/1600x900/football-manchester-unitd-sir_6064065.jpg?20230220163332",
+      "publishedAt": "2023-03-04T20:57:00Z",
+      "content": "The two leading bidders for Manchester United have been told that they have made it through to the next stage of the process.\r\nSheikh Jassim bin Hamad Al Thani's and Sir Jim Ratcliffe's bid teams are… [+1584 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Borretti.me"
+        "name": "RaceFans"
       },
-      "author": "Fernando Borretti",
-      "title": "Shells Are Two Things",
-      "description": "Command languages and scripting languages are and should be different things.",
-      "url": "https://borretti.me/article/shells-are-two-things",
-      "urlToImage": "https://borretti.me/assets/card/shells-are-two-things.jpg",
-      "publishedAt": "2023-02-08T11:42:29Z",
-      "content": "The fundamental problem of shells is they are required to be two things.\r\n<ol><li>A high-frequency REPL, which requires terseness, short command names,\r\nlittle to no syntax, implicit rather than expl… [+2670 chars]"
+      "author": "Keith Collantine",
+      "title": "Mercedes wait and see what “medicine” W14 needs as Hamilton admits concerns | 2023 Bahrain Grand Prix",
+      "description": "Lewis Hamilton expects it will be hard for Mercedes to make progress with their current car concept, but the team says it will wait to judge what \"medicine\" their W14 needs.",
+      "url": "https://www.racefans.net/2023/03/04/mercedes-wait-and-see-what-medicine-w14-needs-as-hamilton-admits-concerns/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/racefansdotnet-23-03-04-12-11-49-2.jpg",
+      "publishedAt": "2023-03-04T13:07:17Z",
+      "content": "Lewis Hamilton was downbeat after ending the opening day of practice for the Bahrain Grand Prix in eighth place.\r\nThe seven-times world champion, who went without a win all year for the first time in… [+5686 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "IndieWire"
+        "name": "Daily Mail"
       },
-      "author": "Christian Zilko",
-      "title": "‘Full Swing’ Trailer: PGA Tour Golf Gets the ‘F1: Drive to Survive’ Treatment in Netflix Docuseries",
-      "description": "The documentary promises unprecedented access to the PGA Tour as it faces an existential crisis from LIV Golf.",
-      "url": "https://www.indiewire.com/2023/02/full-swing-trailer-netflix-pga-tour-golf-documentary-1234806937/",
-      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-06-at-9.59.32-AM.png?w=780",
-      "publishedAt": "2023-02-06T18:18:21Z",
-      "content": "The hyper-competitive world of the PGA tour takes center stage in “Full Swing,” a new Netflix documentary series about the biggest names in professional golf. The project hails from the same creative… [+2336 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "MPs want F1 to look into human rights violations",
-      "description": "UK MPs urge Formula 1 to set up an independent inquiry into the links between grands prix and human rights violations.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64794237",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/BBD9/production/_128798084_bahrain_reuters.jpg",
-      "publishedAt": "2023-02-28T15:54:37Z",
-      "content": "The Bahrain Grand Prix is one of the most controversial in the F1 calendar\r\nUK MPs have urged Formula 1 to set up an independent inquiry into the links between grands prix and human rights violations… [+4280 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Tottenham Hotspur to build karting track under stadium as part of F1 partnership",
-      "description": "Tottenham Hotspur announce a partnership with Formula 1 which will see a karting track built under the Premier League club's stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/64795737",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/3CF0/production/_128800651_spurs_f1_final.jpg",
-      "publishedAt": "2023-02-28T10:15:09Z",
-      "content": "Tottenham's partnership with F1 will run for 15 years\r\nTottenham have announced a partnership with Formula 1 which will see a karting track built under their stadium.\r\nThe electric karting circuit, p… [+1733 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Hamilton resigned to difficult start to F1 season",
-      "description": "Lewis Hamilton is resigned to a difficult start to the Formula 1 season with his Mercedes team lagging behind champions Red Bull.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64828539",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/177DF/production/_128832269_hampa.jpg",
-      "publishedAt": "2023-03-02T16:46:23Z",
-      "content": "Lewis Hamilton ended 2022 in the sixth place in the drivers' championship following a difficult season for Mercedes\r\nLewis Hamilton is resigned to a difficult start to the Formula 1 season with his M… [+4715 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Grosjean's burnt-out F1 car to go on show",
-      "description": "The burnt-out shell of a Formula 1 car that saved Romain Grosjean's life in his fiery crash at the 2020 Bahrain Grand Prix is to go on show.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64715585",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13677/production/_128697497_survivalfilmhaaschassis3.jpg",
-      "publishedAt": "2023-02-21T11:58:57Z",
-      "content": "Romain Grosjean competes in IndyCar after leaving Formula 1\r\nThe burnt-out shell of a Formula 1 car that saved Romain Grosjean's life in his fiery crash at the 2020 Bahrain Grand Prix is to go on sho… [+1699 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "F1 track invaders guilty of causing public nuisance",
-      "description": "Just Stop Oil protesters sat down on the track at the start of the British Grand Prix in July.",
-      "url": "https://www.bbc.co.uk/news/uk-england-northamptonshire-64601297",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/321F/production/_128413821_0740ceb3-406d-42b6-b28a-aab0a0339cf3.jpg",
-      "publishedAt": "2023-02-10T15:02:29Z",
-      "content": "A group of Just Stop Oil protesters have been found guilty of risking \"serious harm\" during a track invasion at the Formula 1 British Grand Prix.\r\nFour men and two women were convicted at Northampton… [+921 chars]"
+      "author": "Lillian Gissen",
+      "title": "Formula 1 WAGs: The stunning women who will be supporting their racer boyfriends at the Grand Prix",
+      "description": "From their own careers to how they met their racer beaus and details on their relationships, here's everything you need to know about the WAGs of Formula 1's fierce competitors.",
+      "url": "https://www.dailymail.co.uk/femail/article-11804647/Formula-1-WAGs-stunning-women-supporting-racer-boyfriends-Grand-Prix.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/03/18/68311869-0-image-a-76_1677866485699.jpg",
+      "publishedAt": "2023-03-04T12:30:01Z",
+      "content": "The biggest event in racing is finally almost upon us. The first race in the highly-anticipated 2023 Formula 1 season is set to kick off tomorrow, which means the top drivers from all around the glob… [+32898 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Arxiv.org"
+        "name": "Mirror Online"
       },
-      "author": null,
-      "title": "Exploring the impact of code style in identifying good programmers (2022)",
-      "description": "Code style is an aesthetic choice exhibited in source code that reflects\nprogrammers individual coding habits. This study is the first to investigate\nwhether code style can be used as an indicator to identify good programmers.\nData from Google Code Jam was ch…",
-      "url": "https://arxiv.org/abs/2206.10891",
-      "urlToImage": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "publishedAt": "2023-02-09T22:39:25Z",
-      "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]"
+      "author": "mirrornews@mirror.co.uk (Daniel Moxon)",
+      "title": "Max Verstappen is a \"true champion\" with F1 rookie Nyck de Vries in awe of Red Bull star",
+      "description": "F1 rookie Nyck de Vries spoke about his friendship with Max Verstappen and what it means to represent the Netherlands as part of a wide ranging interview with Mirror Sport",
+      "url": "https://www.mirror.co.uk/sport/formula-1/devries-max-verstappen-red-bull-29369199",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article29369248.ece/ALTERNATES/s1200/0_Nyck-de-Vries-Max-Verstappen-exclusive-main-GETTY.png",
+      "publishedAt": "2023-03-04T06:00:00Z",
+      "content": "When first starting out full-time in Formula 1, many drivers are carrying the hopes of not only their team, but also their country. \r\nOscar Piastri and Logan Sargeant are prime examples. This year, t… [+2124 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Highsnobiety"
+        "name": "RaceFans"
       },
-      "author": "Highsnobiety",
-      "title": "Thanks to LEGO, You Can Own a McLaren F1 LM for $34.99",
-      "description": "In kicking off its 60th anniversary, McLaren tapped LEGO to celebrate with a collaborative Speed Champions set. A first for the two, McLaren and LEGO’s latest set arrives as a double pack featuring McLaren’s most iconic rides: the F1 LM and Solus GT. The McLa…",
-      "url": "https://www.highsnobiety.com/p/mclaren-lego-speed-champions-double-pack/",
-      "urlToImage": "https://www.highsnobiety.com/static-assets/thumbor/tLG4u9RPaPogFxt_wR7EyIbfV-I=/1200x610/www.highsnobiety.com/static-assets/wp-content/uploads/2023/02/27165701/mclaren-lego-speed-champions-double-pack-3.jpg",
-      "publishedAt": "2023-02-27T17:48:28Z",
-      "content": "In kicking off its 60th anniversary, McLaren tapped LEGO to celebrate with a collaborative Speed Champions set.\r\nA first for the two, McLaren and LEGO's latest set arrives as a double pack featuring … [+963 chars]"
+      "author": "Keith Collantine",
+      "title": "Leclerc sure Ferrari made “right choice” by missing last run to save tyres | 2023 Bahrain Grand Prix",
+      "description": "Charles Leclerc believes Ferrari made the right decision not to complete a final run in qualifying, despite it costing him a place on the grid.",
+      "url": "https://www.racefans.net/2023/03/04/leclerc-sure-ferrari-made-right-choice-by-missing-last-run-to-save-tyres/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/Saturday-at-Bahrain-GPXPB_1192288_HiRes.jpg",
+      "publishedAt": "2023-03-04T16:46:34Z",
+      "content": "Charles Leclerc believes Ferrari made the right decision not to complete a final run in qualifying, despite it costing him a place on the grid.\r\nHe lay second behind Max Verstappen after the first ru… [+2484 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Autoblog"
+        "name": "RaceFans"
       },
-      "author": "Jonathon Ramsey",
-      "title": "2022 Rivian R1T and 2023 BMW XM headed to Pikes Peak",
-      "description": "Filed under:\n Motorsports,BMW,Truck,SUV,Electric,Luxury,Off-Road Vehicles,Performance,Rivian\n Continue reading 2022 Rivian R1T and 2023 BMW XM headed to Pikes Peak\n2022 Rivian R1T and 2023 BMW XM headed to Pikes Peak originally appeared on Autoblog on Sun, 5 …",
-      "url": "https://www.autoblog.com/2023/02/05/rivian-r1t-bmw-xm-pikes-peak/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/02/04164615/bmw_xm_red_label.jpg",
-      "publishedAt": "2023-02-05T18:16:00Z",
-      "content": "Pikes Peak says the first battery-electric car to contest the race to the clouds was a Sears-branded mashup mutt of a car in 1981. The XDH-1 had been lashed up using a 1977 Fiat 128 hatchback chassis… [+2176 chars]"
+      "author": "Will Wood",
+      "title": "Verstappen relieved to take pole after “big shock” of practice setback | 2023 Bahrain Grand Prix",
+      "description": "Max Verstappen says he is relieved to have taken pole after describing the handling of his Red Bull in practice as a \"big shock\".",
+      "url": "https://www.racefans.net/2023/03/04/verstappen-relieved-to-take-pole-after-big-shock-of-practice-setback/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/Saturday-at-Bahrain-GPXPB_1192299_HiRes.jpg",
+      "publishedAt": "2023-03-04T17:13:07Z",
+      "content": "Bahrain Grand Prix pole winner Max Verstappen says he is relieved to have taken pole after describing the handling of his Red Bull in practice as a “big shock”.\r\nVerstappen led a Red Bull front row l… [+3081 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "RaceFans"
       },
-      "author": "Matt Wales",
-      "title": "Frontier's F1 Manager 2022 is free to try this weekend on Steam",
-      "description": "Frontier Developments is making its F1 racing management sim - the aptly F1 Manager 2022 - free to try this weekend on Steam.\n\nF1 Manager 2022 - the first of four games planned for release under Frontier's F1 licensing deal - launched last August, putting pla…",
-      "url": "https://www.eurogamer.net/frontiers-f1-manager-2022-is-free-to-try-this-weekend-on-steam",
-      "urlToImage": "https://assets.reedpopcdn.com/f1-manager-2022_s6Na0NX.jpg/BROK/thumbnail/1200x630/f1-manager-2022_s6Na0NX.jpg",
-      "publishedAt": "2023-03-02T15:00:00Z",
-      "content": "Frontier Developments is making its F1 racing management sim - the aptly F1 Manager 2022 - free to try this weekend on Steam.\r\nF1 Manager 2022 - the first of four games planned for release under Fron… [+1482 chars]"
-    },
-    {
-      "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "author": "Joe Tansey",
-      "title": "F1 Grand Prix 2023 Season Schedule, Start Times, Locations and More",
-      "description": "The 2023 Formula One season is expected to belong to Red Bull and Max Verstappen. Verstappen is the two-time reigning champion in the Drivers Championship,…",
-      "url": "https://bleacherreport.com/articles/10067343-f1-grand-prix-2023-season-schedule-start-times-locations-and-more",
-      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1677767187/ebkcqfqdob5kw2koh4g0.jpg",
-      "publishedAt": "2023-03-02T15:09:00Z",
-      "content": "Ayman Yaqoob/Anadolu Agency via Getty Images\r\nThe 2023 Formula One season is expected to belong to Red Bull and Max Verstappen.\r\nVerstappen is the two-time reigning champion in the Drivers Championsh… [+3945 chars]"
-    },
-    {
-      "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "author": "Joseph Zucker",
-      "title": "Lewis Hamilton Says 'There Is No Hold Up' with New Mercedes F1 Contract",
-      "description": "Lewis Hamilton downplayed any uncertainty surrounding his future with Mercedes beyond the 2023 Formula One season. Hamilton said the discourse is \"ultimately…",
-      "url": "https://bleacherreport.com/articles/10067364-lewis-hamilton-says-there-is-no-hold-up-with-new-mercedes-f1-contract",
-      "urlToImage": "https://media.bleacherreport.com/image/upload/x_0,y_78,w_1800,h_1200,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1677776525/gko3lunnulnvbz6delry.jpg",
-      "publishedAt": "2023-03-02T17:08:13Z",
-      "content": "Mario Renzi - Formula 1/Formula 1 via Getty Images\r\nLewis Hamilton downplayed any uncertainty surrounding his future with Mercedes beyond the 2023 Formula One season.\r\nHamilton said the discourse is … [+556 chars]"
+      "author": "Keith Collantine",
+      "title": "Hamilton expected Mercedes’ qualifying would be worse in Bahrain | 2023 Bahrain Grand Prix",
+      "description": "Lewis Hamilton admitted he expected Mercedes would struggle even more than they did in qualifying for the Bahrain Grand Prix.",
+      "url": "https://www.racefans.net/2023/03/04/hamilton-expected-mercedes-qualifying-would-be-worse-in-bahrain/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/Saturday-at-Bahrain-GPXPB_1192256_HiRes.jpg",
+      "publishedAt": "2023-03-04T18:01:50Z",
+      "content": "Lewis Hamilton admitted he expected Mercedes would struggle even more than they did in qualifying for the Bahrain Grand Prix.\r\nThe team was almost as far off the pace in the first qualifying session … [+2535 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Liu Jia",
-      "title": "Multiple-responsive fluorescent probes developed for microenvironmental monitoring",
-      "description": "Fluorescent probes capable of monitoring multiple analytes/parameters of microenvironments are attractive in the field of disease diagnosis, intracellular imaging, material defects tracking, and high-resolution sensing. However, most reported fluorophores can…",
-      "url": "https://phys.org/news/2023-02-multiple-responsive-fluorescent-probes-microenvironmental.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/multiple-responsive-fl.jpg",
-      "publishedAt": "2023-02-17T15:07:45Z",
-      "content": "In sharp contrast to conventional fluorophores that can only detect one or few stimuli in microenvironments, a group of phenanthridine-based fluorophores, namely B1, F1, and T1 with 1D, 2D, and 3D mo… [+3713 chars]"
+      "author": "Insider Monkey Transcripts",
+      "title": "3D Systems Corporation (NYSE:DDD) Q4 2022 Earnings Call Transcript",
+      "description": "3D Systems Corporation (NYSE:DDD) Q4 2022 Earnings Call Transcript March 1, 2023 Operator: Hello, and welcome to the 3D Systems Fourth Quarter and Full Year ...",
+      "url": "https://finance.yahoo.com/news/3d-systems-corporation-nyse-ddd-011106852.html",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/72d81496a97896782a7c5130995c8c5a",
+      "publishedAt": "2023-03-04T01:11:06Z",
+      "content": "3D Systems Corporation (NYSE:DDD) Q4 2022 Earnings Call Transcript March 1, 2023\r\nOperator: Hello, and welcome to the 3D Systems Fourth Quarter and Full Year 2022 Conference Call and Webcast. A quest… [+35750 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Autoblog"
+        "name": "Rediff.com"
       },
-      "author": "Greg Migliore",
-      "title": "Chicago Auto Show sees daylight to score as the 'super' car show",
-      "description": "Filed under:\n Chicago Auto Show,RAM,Truck,SUV,Electric\n Continue reading Chicago Auto Show sees daylight to score as the 'super' car show\nChicago Auto Show sees daylight to score as the 'super' car show originally appeared on Autoblog on Wed, 15 Feb 2023 10:0…",
-      "url": "https://www.autoblog.com/2023/02/15/chicago-auto-show-2023-opinion/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/02/12085642/FP023_009RM-copy.jpg",
-      "publishedAt": "2023-02-15T15:00:00Z",
-      "content": "The Chicago Auto Show finds itself in a good spot thanks to a couple of things fortuitously moving in its favor. With the Super Bowl later than ever it now falls on Valentines Day weekend and the Det… [+4396 chars]"
+      "author": "harishk@rediff.co.in (Harish Kotian)",
+      "title": "Bahrain GP: Hamilton exempted from jewellery ban",
+      "description": "F1 stewards exempted Lewis Hamilton from a jewellery ban at the Bahrain Grand Prix on Friday after accepting he risked disfigurement if a nose piercing was removed.",
+      "url": "https://www.rediff.com/sports/report/f1-bahrain-gp-hamilton-exempted-from-jewellery-ban/20230304.htm",
+      "urlToImage": "https://im.rediff.com/sports/2023/mar/04hamilton.jpg",
+      "publishedAt": "2023-03-04T05:58:02Z",
+      "content": "IMAGE: Lewis Hamilton has worn a permanent nose stud in his left nostril for years and photographs in Bahrain have shown him also with one on the right. Photograph: Clive Mason/Getty Images\r\nFormula … [+1394 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Autoblog"
+        "name": "Mirror Online"
       },
-      "author": "Ronan Glon",
-      "title": "BMW hasn't ruled out licensing its hydrogen-electric technology",
-      "description": "Filed under:\n Green,BMW,Hydrogen Cars\n Continue reading BMW hasn't ruled out licensing its hydrogen-electric technology\nBMW hasn't ruled out licensing its hydrogen-electric technology originally appeared on Autoblog on Tue, 28 Feb 2023 10:36:00 EST. Please se…",
-      "url": "https://www.autoblog.com/2023/02/28/bmw-hydrogen-electric-powertrain-technology-licensing-to-others/",
-      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/02/16132141/rg-bmw-ix5-3.jpg",
-      "publishedAt": "2023-02-28T15:36:00Z",
-      "content": "BMW has historically licensed its engines to a diverse list of manufacturers; the Bertone Freeclimber, the McLaren F1, the Morgan Plus Six, and the Ineos Grenadier are all BMW-powered. The company to… [+2015 chars]"
+      "author": "mirrornews@mirror.co.uk (Daniel Moxon)",
+      "title": "Lewis Hamilton shows Mercedes frustration with radio message ahead of F1 Bahrain GP",
+      "description": "Mercedes messed up their plans for Lewis Hamilton at the end of the third and final practice session in Bahrain, leaving the seven-time world champion unimpressed",
+      "url": "https://www.mirror.co.uk/sport/formula-1/lewis-hamilton-bahrain-gp-mercedes-29372544",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article29372546.ece/ALTERNATES/s1200/0_Bahrain-Grand-Prix-Preview-Day-Bahrain-International-Circuit.jpg",
+      "publishedAt": "2023-03-04T14:28:58Z",
+      "content": "Lewis Hamilton showed his frustration with an exasperated radio message at the end of the final practice session in Bahrain on Saturday. \r\nHamilton and the rest of the grid were going through their f… [+2160 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Truth About Cars"
+        "name": "Daily Mail"
       },
-      "author": "Tim Healey",
-      "title": "QOTD: Are You Watching Drive to Survive?",
-      "description": "Season 5 of \"Drive to Survive\" on Netflix drops today. Are you watching?  I will be honest -- I have not been watching the show about life in Formula 1, but I…",
-      "url": "https://www.thetruthaboutcars.com/cars/question-of-the-day/qotd-are-you-watching-drive-to-survive-44499523",
-      "urlToImage": "https://cdn-fastly.thetruthaboutcars.com/media/2023/02/24/13561/qotd-are-you-watching-drive-to-survive.jpg?size=1200x628",
-      "publishedAt": "2023-02-24T19:30:00Z",
-      "content": "Yep, the wife LOVES it. Thanks to this show she actually watches all of the races and qualifying now. Over Xmas we built the McLaren F1 LEGO kit. I've been watching F1 for decades.\r\nThe show is often… [+803 chars]"
+      "author": "Alex Miller, Nick Harris",
+      "title": "Tottenham finally top a table as they rack up the highest interest payments in the Premier League",
+      "description": "Tottenham haven't won a trophy since the 2008 League Cup and haven't won the title for 62 years but they've finally topped a Premier League table - for interest payments.",
+      "url": "https://www.dailymail.co.uk/sport/othersports/article-11821125/Tottenham-finally-table-rack-highest-payments-Premier-League.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/04/21/68340247-0-image-a-101_1677965465573.jpg",
+      "publishedAt": "2023-03-04T22:31:02Z",
+      "content": "Tottenham havent won a trophy since the 2008 League Cup and havent won the title for 62 years but theyve finally topped a Premier League table for interest payments.\r\nSpurs forked out £22.2million in… [+4432 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SlashGear"
+        "name": "RaceFans"
       },
-      "author": "staff@slashgear.com (Daniel Feininger)",
-      "title": "The Most Bizarre Sponsors In The History Of F1",
-      "description": "F1 has its share of sponsors adorning driver jumpsuits and cars, but we have a list of five of the oddest F1 sponsor pairings in the history of the sport.",
-      "url": "https://www.slashgear.com/1194264/the-most-bizarre-sponsors-in-the-history-of-f1/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/the-most-bizarre-sponsors-in-the-history-of-f1/l-intro-1675961875.jpg",
-      "publishedAt": "2023-02-09T17:01:21Z",
-      "content": "Mission Winnow appeared prominently emblazoned on the tailfins of the Ferrari cars at the start of the 2019 season. The brand was featured in one of the most easily spotted areas of a Formula 1 Grand… [+1280 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Spanish Grand Prix to run on faster circuit layout",
-      "description": "The final chicane will be replaced by two high-speed right-hand corners at this year's Spanish Grand Prix in Barcelona.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64787396",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11A5E/production/_128768227_gettyimages-1398662079.jpg",
-      "publishedAt": "2023-02-27T12:30:14Z",
-      "content": "Max Verstappen won the 2022 Spanish Grand Prix\r\nThe Spanish Grand Prix this year will run on a much faster circuit layout, with the final chicane replaced by two high-speed right-hand corners.\r\nThe C… [+950 chars]"
+      "author": "Keith Collantine",
+      "title": "Mercedes to change car concept after W14 fails to close gap to rivals | 2023 Bahrain Grand Prix",
+      "description": "Mercedes will change the philosophy behind its Formula 1 car, says team principal Toto Wolff, after they started the new season almost no closer than it was 12 months ago.",
+      "url": "https://www.racefans.net/2023/03/04/mercedes-to-change-car-concept-after-w14-fails-to-close-gap-to-rivals/",
+      "urlToImage": "https://www.racefans.net/wp-content/uploads/2023/03/Saturday-at-Bahrain-GPXPB_1192333_HiRes.jpg",
+      "publishedAt": "2023-03-04T17:48:17Z",
+      "content": "Mercedes has accepted it needs to change the philosophy behind its Formula 1 car after starting the new season almost no closer than it was 12 months ago.\r\nGeorge Russell and Lewis Hamilton claimed s… [+3906 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Canonrumors.com"
+        "name": "Daily Mail"
       },
-      "author": "Canon Rumors",
-      "title": "Cosina will announce a NOKTON 50mm F1 Aspherical for the RF mount",
-      "description": "Cosina has recently been teasing new prime lenses for various mirrorless mounts, including Canon's RF mount. The new lenses from Cosina will have electrical contacts for added functionality with your RF camera. For Canon shooters, Cosina will announce a Nokto…",
-      "url": "https://www.canonrumors.com/cosina-will-announce-a-nokton-50mm-f1-aspherical-for-the-rf-mount/",
-      "urlToImage": "https://www.canonrumors.com/wp-content/uploads/2023/02/Voigtlander-50mm-F1-Notkon_featured-1300x750-1.jpg",
-      "publishedAt": "2023-02-21T06:44:09Z",
-      "content": "Cosina has recently been teasing new prime lenses for various mirrorless mounts, including Canon's RF mount. The new lenses from Cosina will have electrical contacts for added functionality with your… [+516 chars]"
+      "author": "Dominic Hogan",
+      "title": "US billionaire Jahm Najafi is 'eyeing a potential takeover for Everton rather than Tottenham'",
+      "description": "The Iranian-born businessman had been connected with Spurs, with Najafi thought to be preparing a £3bn take over of Tottenham - but now looks to be eyeing one of their rivals.",
+      "url": "https://www.dailymail.co.uk/sport/football/article-11821689/US-billionaire-Jahm-Najafi-eyeing-potential-takeover-Everton-Tottenham.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/05/01/68344947-0-image-a-94_1677978143478.jpg",
+      "publishedAt": "2023-03-05T01:05:09Z",
+      "content": "American billionaire Jahm Najafi is reportedly considering an approach to buy Everton, despite having previously been linked with Tottenham. \r\nThe Iranian-born businessman had been connected with Spu… [+2084 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Alonso has fans dreaming with top time in F1 Bahrain GP practice",
+      "description": "Fernando Alonso had his fans dreaming of future glory after the Spaniard beat favourites Red Bull and put Aston Martin top of the timesheets in Friday practice for Formula One's Bahrain season-opener.",
+      "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/fernando-alonso-has-fans-dreaming-with-top-time-in-f1-bahrain-gp-practice/articleshow/98403342.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-98403362,width-1070,height-580,imgsize-57478,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-03-04T03:20:47Z",
+      "content": ""
     },
     {
       "source": {
         "id": null,
-        "name": "Jalopnik"
+        "name": "Business Today"
       },
-      "author": "Owen Bellwood",
-      "title": "Formula 1 Will Finally Race in London… Sort Of",
-      "description": "Some of Formula 1’s best racing takes place on street circuits all over the world. From Monaco to Singapore, there’s nothing quite like the roar of race cars ricocheting around tightly packed city streets. Now, after countless rumors, consultations and circui…",
-      "url": "https://jalopnik.com/formula-1-will-finally-race-in-london-sort-of-1850167738",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/902d808aec0b5729fe7cb5dbdecba20b.jpg",
-      "publishedAt": "2023-02-28T18:20:00Z",
-      "content": "Some of Formula 1s best racing takes place on street circuits all over the world. From Monacoto Singapore, theres nothing quite like the roar of race cars ricocheting around tightly packed city stree… [+2629 chars]"
+      "author": "Shubham Singh",
+      "title": "YouTuber damages Rs 3.5 crore Lamborghini over this bizarre reason",
+      "description": "Mikhail Litvin damaged the ultra-luxury car for the promotion of the YouTuber's energy drink brand - Lit Energy. He also videotaped the entire act.",
+      "url": "https://www.businesstoday.in/latest/trends/story/youtuber-damages-rs-35-crore-lamborghini-over-this-bizarre-reason-372245-2023-03-04",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202303/youtuber-sixteen_nine.jpg",
+      "publishedAt": "2023-03-04T11:21:32Z",
+      "content": "Owning a car like Lamborghini is a luxurious privilege for a lot of people. But it's not a big deal for a Russian YouTuber who was seen destroying a white Lamborghini Urus SUV worth Rs 3.5 crore.\r\nIn… [+1906 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Ritholtz.com"
+        "name": "Daily Mail"
       },
-      "author": "Barry Ritholtz",
-      "title": "10 Friday AM Reads",
-      "description": "My end-of-week morning train WFH reads: • The Fed alone cannot bring inflation down: Management of demand is not efficient in dealing with supply-driven price rises: fiscal policy must play its part.art (Financial Times) • When a savings account is very risky…",
-      "url": "https://ritholtz.com/2023/02/10-friday-am-reads-398/",
-      "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/02/housingmarket.png",
-      "publishedAt": "2023-02-24T11:45:56Z",
-      "content": "The Fed alone cannot bring inflation down: Management of demand is not efficient in dealing with supply-driven price rises: fiscal policy must play its part.art (Financial Times)\r\nWhen a savings acco… [+2962 chars]"
+      "author": "Jonathan McEvoy",
+      "title": "Mercedes are ASTONISHINGLY preparing to bin their 2023 car humiliatingly on the eve of new season",
+      "description": "Team principal Toto Wolff delivered the astonishing news after the Silver Arrows qualified six-tenths of a second adrift of pole-sitter Max Verstappen, 25 hours after Lewis Hamilton questioned flawed design.",
+      "url": "https://www.dailymail.co.uk/sport/formulaone/article-11821173/Mercedes-ASTONISHINGLY-preparing-bin-2023-car-humiliatingly-eve-new-season.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/04/21/68340287-0-image-a-47_1677964692215.jpg",
+      "publishedAt": "2023-03-04T22:30:17Z",
+      "content": "Mercedes are preparing to bin their 2023 car the humiliating concession coming last night in Bahrain on the eve of the seasons opening grand prix.\r\nTeam principal Toto Wolff delivered the astonishing… [+5811 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "HYPEBEAST"
+        "name": "Toronto Star"
       },
-      "author": "info@hypebeast.com (Hypebeast)",
-      "title": "Formula 1 and Tottenham Hotspur’s New Partnership Will Welcome the UK's Biggest Electric Karting Track",
-      "description": "Formula 1 has agreed to a 15-year strategic partnership with Premier League football club Tottenham Hotspur and the deal will welcome Europe's biggest in-stadium electric karting facility.The high-tech facility, based below the Tottenham Hotspur Stadium, will…",
-      "url": "https://hypebeast.com/2023/2/tottenham-hotspur-formula-1-partnership",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Ftottenham-hotspur-formula-1-partnership-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "publishedAt": "2023-02-28T16:47:27Z",
-      "content": "Formula 1 has agreed to a 15-year strategic partnership with Premier League football club Tottenham Hotspur and the deal will welcome Europe’s biggest in-stadium electric karting facility.\r\nThe high-… [+1257 chars]"
+      "author": "Sakhir,Bahrain - The Associated Press",
+      "title": "Verstappen and Perez give Red Bull 1-2 pole for Bahrain GP",
+      "description": "World champion Max Verstappen took pole position ahead of Red Bull teammate Sergio Perez for the season-opening Bahrain Grand Prix on Saturday.",
+      "url": "https://www.thestar.com/sports/auto-racing/2023/03/04/verstappen-and-perez-give-red-bull-1-2-pole-for-bahrain-gp.html",
+      "urlToImage": "https://images.thestar.com/X0W1aR1HyWnwHlCeJ-phQ5m7ktY=/1280x1024/smart/filters:cb(1677947959610):format(webp)/https://www.thestar.com/content/dam/thestar/sports/auto-racing/2023/03/04/verstappen-and-perez-give-red-bull-1-2-pole-for-bahrain-gp/20230304110328-6403722fd74bed5ad83952f5jpeg.jpg",
+      "publishedAt": "2023-03-04T16:31:00Z",
+      "content": "World champion Max Verstappen took pole position ahead of Red Bull teammate Sergio Perez for the season-opening Bahrain Grand Prix on Saturday.\r\nPerez beat Ferraris Charles Leclerc to place second, .… [+2416 chars]"
     },
     {
       "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
+        "id": "marca",
+        "name": "Marca"
       },
-      "author": null,
-      "title": "I have 'patience' for McLaren rebuild - Norris",
-      "description": "Lando Norris says he has the \"patience\" to wait for McLaren to rebuild themselves into a championship-winning team in Formula 1.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64625961",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/636B/production/_128615452_f1_mclarenthree.jpg",
-      "publishedAt": "2023-02-13T17:24:47Z",
-      "content": "Lando Norris (left) and Oscar Piastri were present at the unveiling of McLaren's car for the new season\r\nLando Norris says he has the patience to wait for McLaren to rebuild themselves into a champio… [+4422 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "We should be able to say what we want - Norris",
-      "description": "McLaren's Lando Norris says that Formula 1's governing body should abandon its plans for an apparent ban on free speech for drivers.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64633083",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/37F2/production/_128622341_norris.jpg",
-      "publishedAt": "2023-02-14T07:28:45Z",
-      "content": "Lando Norris, 23, is about to start his fifth season in Formula 1\r\nMcLaren's Lando Norris says that Formula 1's governing body should abandon its plans for an apparent ban on free speech for drivers.… [+1973 chars]"
+      "author": "marca.com",
+      "title": "The 2023 F1 Safety Car: What model is it? What's its top speed? How much does it cost?",
+      "description": "The Formula 1 season kicks off with the first Grand Prix of the year that will take place in Bahrain this weekend, when the new 2023 Safety Car will be introduced to fans. \nAston M",
+      "url": "https://www.marca.com/en/f1/2023/03/04/6403773ae2704e8fb38b45a0.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/fede33fc9df7785317aac00d6b9f19a2/resize/1200/f/jpg/assets/multimedia/imagenes/2023/03/03/16778634207736.jpg",
+      "publishedAt": "2023-03-04T16:56:33Z",
+      "content": "The Formula 1 season kicks off with the first Grand Prix of the year that will take place in Bahrain this weekend, when the new 2023 Safety Car will be introduced to fans. \r\nAston Martin and Mercedes… [+1007 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GQ Magazine"
+        "name": "autosport.com"
       },
-      "author": "Gregory Leporati",
-      "title": "Bubba Wallace and Daniel Suarez Are Shaping NASCAR's Future",
-      "description": "Ahead of the Daytona 500, the rival stars chat about on-track beefs, F1 connections, and their celebrity team owners.",
-      "url": "https://www.gq.com/story/bubba-wallace-daytona-2023",
-      "urlToImage": "https://media.gq.com/photos/63ee8ca196633521865a2610/16:9/w_1280,c_limit/bubbadaniel.jpg",
-      "publishedAt": "2023-02-17T14:00:00Z",
-      "content": "Daniel Suarez: I agree, and Ive actually had a hard time with those things. But as I get more mature, Im getting better with it. Like Bubba says, we race almost 40 times a year, and youre going to ha… [+2691 chars]"
+      "author": "Charles Bradley",
+      "title": "F1 qualifying results: Verstappen takes Bahrain GP pole",
+      "description": "Verstappen will start ahead of Red Bull Racing team-mate Sergio Perez and Ferrari’s Charles Leclerc after the one-hour qualifying session, which was split into three segments with five cars each being knocked out in Q1 and Q2 before the top-10 shootout of Q3.…",
+      "url": "https://www.autosport.com/f1/news/f1-qualifying-results-verstappen-takes-bahrain-gp-pole/10439609/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/27vmOpm0/s6/max-verstappen-red-bull-racing.jpg",
+      "publishedAt": "2023-03-04T16:29:00Z",
+      "content": "Verstappen will start ahead of Red Bull Racing team-mate Sergio Perez and Ferraris Charles Leclerc after the one-hour qualifying session, which was split into three segments with five cars each being… [+2569 chars]"
     },
     {
       "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
+        "id": null,
+        "name": "autosport.com"
       },
-      "author": null,
-      "title": "Alonso targets success with Aston Martin",
-      "description": "Fernando Alonso says he is convinced the Aston Martin team he has joined this year will become winners in Formula 1 in the future.",
-      "url": "https://www.bbc.co.uk/sport/formula1/64628611",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/9670/production/_128621583_amartin1.jpg",
-      "publishedAt": "2023-02-13T20:09:53Z",
-      "content": "The AMR23 - Aston Martin's F1 car for the 2023 season - was unveiled at the team's new headquarters at Silverstone\r\nFernando Alonso says he is convinced the Aston Martin team he has joined this year … [+4660 chars]"
+      "author": "Matt Kew",
+      "title": "Leclerc reveals reason for late F1 Bahrain GP Q3 absence",
+      "description": "Leclerc jumped out of his SF-23 after posting his banker lap in Q3 to forfeit his shot at pole position, with the driver settling for third place by lapping 0.292s adrift of Max Verstappen and behind the second Red Bull of Sergio Perez.While this led to some …",
+      "url": "https://www.autosport.com/f1/news/leclerc-reveals-reason-for-late-f1-bahrain-gp-q3-absence/10439619/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/24v38Qq6/s6/charles-leclerc-ferrari-sf-23-.jpg",
+      "publishedAt": "2023-03-04T16:40:24Z",
+      "content": "Leclerc jumped out of his SF-23 after posting his banker lap in Q3 to forfeit his shot at pole position, with the driver settling for third place by lapping 0.292s adrift of Max Verstappen and behind… [+1846 chars]"
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "autosport.com"
       },
-      "author": "Antonio Vanuzzo",
-      "title": "Formula 1 Will Never Go Electric, Ecclestone Successor Says",
-      "description": "Formula 1 “will never switch to electric,” Stefano Domenicali, president and chief executive officer of the motor sport group, said in an interview published by Italian newspaper Il Sole 24 Ore on Sunday.",
-      "url": "https://www.bloomberg.com/news/articles/2023-02-19/f1-will-never-switch-to-electric-ceo-tells-italian-newspaper",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyqbFp49.Sn8/v0/1200x800.jpg",
-      "publishedAt": "2023-02-19T11:15:47Z",
-      "content": "Formula 1 will never switch to electric, Stefano Domenicali, president and chief executive officer of the motor sport group, said in an interview published by Italian newspaper Il Sole 24 Ore on Sund… [+962 chars]"
+      "author": "Filip Cleeren",
+      "title": "Alonso eyeing podium after \"amazing\" Bahrain F1 qualifying",
+      "description": "Alonso and his Aston Martin team were the talk of the paddock after topping for FP2 and FP3, with the expectation that the Silverstone team could at least challenge Mercedes to enter the top three.The two-time F1 world champion did exactly that in qualifying,…",
+      "url": "https://www.autosport.com/f1/news/alonso-eyeing-podium-after-amazing-bahrain-f1-qualifying/10439668/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/6zQOVoLY/s6/fernando-alonso-aston-martin-a.jpg",
+      "publishedAt": "2023-03-04T17:25:47Z",
+      "content": "Alonso and his Aston Martin team were the talk of the paddock after topping for FP2 and FP3, with the expectation that the Silverstone team could at least challenge Mercedes to enter the top three.\r\n… [+2185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "laxmin@rediff.co.in (Laxmi Negi)",
+      "title": "Bahrain GP: Verstappen takes first pole of 2023",
+      "description": "Max Verstappen leads Red Bull front row sweep in Bahrain",
+      "url": "https://www.rediff.com/sports/report/bahrain-gp-verstappen-takes-first-pole-of-2023-red-bull-ferari/20230304.htm",
+      "urlToImage": "https://im.rediff.com/sports/2023/mar/04max.jpg",
+      "publishedAt": "2023-03-04T17:20:30Z",
+      "content": "IMAGE: Max Verstappen claimed Bahrain GP pole ahead of team-mate Sergio Perez. Photograph: F1/Twitter\r\nFormula One world champion Max Verstappen seized pole position for the season-opening Bahrain Gr… [+1504 chars]"
+    },
+    {
+      "source": {
+        "id": "marca",
+        "name": "Marca"
+      },
+      "author": "marca.com",
+      "title": "F1 rules and regulations 2023: What are the rule changes the FIA made this year?",
+      "description": "The F1 2023 season starts this weekend with the Bahrain Grand Prix, with Max Verstappen taking pole position, but qualifying being a great surprise for everyone thanks to the parit",
+      "url": "https://www.marca.com/en/f1/2023/03/04/64038fb422601d0b388b459c.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/4ef82a3fbbfef0ea0cfe5904bce59aec/resize/1200/f/jpg/assets/multimedia/imagenes/2023/03/04/16779548148021.jpg",
+      "publishedAt": "2023-03-04T19:19:57Z",
+      "content": "The F1 2023 season starts this weekend with the Bahrain Grand Prix, with Max Verstappen taking pole position, but qualifying being a great surprise for everyone thanks to the parity of most teams, wh… [+2851 chars]"
+    },
+    {
+      "source": {
+        "id": "marca",
+        "name": "Marca"
+      },
+      "author": "marca.com",
+      "title": "Will Lewis Hamilton be sanctioned for his rainbow helmet? This is the FIA's stance",
+      "description": "The 2023 Formula 1 season is only just starting, but Lewis Hamilton has already made a statement on social issues. \nHe has shown support for the LGBTQ+ community by wearing a helme",
+      "url": "https://www.marca.com/en/f1/2023/03/04/64038823e2704ec5a08b4577.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/d0d6e8f647a381aa395daec61a60433a/resize/1200/f/jpg/assets/multimedia/imagenes/2023/03/04/16779531992750.jpg",
+      "publishedAt": "2023-03-04T18:09:34Z",
+      "content": "The 2023 Formula 1 season is only just starting, but Lewis Hamilton has already made a statement on social issues. \r\nHe has shown support for the LGBTQ+ community by wearing a helmet with the rainbow… [+1532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Jonathan Noble",
+      "title": "Vowles won’t sacrifice Williams’ long term hopes for current F1 car",
+      "description": "Vowles joined Williams last month and well understands the scale of the challenge that he faces to lift the team off the bottom of the standings.PLUS: What Williams’s new boss must do to change the fortunes of F1’s backmarkerIn a column posted on the Williams…",
+      "url": "https://www.autosport.com/f1/news/vowles-wont-sacrifice-williams-long-term-hopes-for-current-f1-car/10439494/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/68yNDwx0/s6/formula-1-bahrain-gp-2023-jame-2.jpg",
+      "publishedAt": "2023-03-04T13:14:49Z",
+      "content": "Vowles joined Williams in January and well understands the scale of the challenge that he faces to lift the team off the bottom of the standings.\r\nPLUS: What Williamss new boss must do to change the … [+3438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Alex Kalinauckas",
+      "title": "F1 Bahrain GP: Verstappen leads Red Bull 1-2 for season opener",
+      "description": "Carlos Sainz finished fourth ahead of his compatriot Fernando Alonso, with the Aston Martin driver only running once in the final segment due to having one set fewer of the soft tyres compared to the Red Bull and Ferrari drivers.Verstappen had led Leclerc aft…",
+      "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-verstappen-leads-red-bull-1-2-for-season-opener/10439590/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/0JBEdxN0/s6/max-verstappen-red-bull-racing.jpg",
+      "publishedAt": "2023-03-04T16:20:20Z",
+      "content": "Carlos Sainz finished fourth ahead of his compatriot Fernando Alonso, with the Aston Martin driver only running once in the final segment due to having one set fewer of the soft tyres compared to the… [+3890 chars]"
+    },
+    {
+      "source": {
+        "id": "marca",
+        "name": "Marca"
+      },
+      "author": "marca.com",
+      "title": "Verstappen takes first pole of the new F1 season in Bahrain",
+      "description": "Max Verstappen is starting the new Formula 1 season as he finished the last one, with the Dutchman taking pole position in qualifying for the Bahrain Grand Prix. \nHe posted a time",
+      "url": "https://www.marca.com/en/f1/2023/03/04/640375f922601da82f8b459b.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/e6ed5f06c2d1a9539c28d8ead4f66f78/resize/1200/f/jpg/assets/multimedia/imagenes/2023/03/04/16779483927369.jpg",
+      "publishedAt": "2023-03-04T16:47:10Z",
+      "content": "Max Verstappen is starting the new Formula 1 season as he finished the last one, with the Dutchman taking pole position in qualifying for the Bahrain Grand Prix. \r\nHe posted a time of 1:29.708 in his… [+1660 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Arthur Parashar",
+      "title": "Drake's mad betting habit: How much has the rapper won or lost?",
+      "description": "At times, Drake has raked in millions, but the rapper has also managed to pick up the reputation of bringing a curse down on those who he backs.",
+      "url": "https://www.dailymail.co.uk/sport/othersports/article-11807629/Drakes-mad-betting-habit-rapper-won-lost.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/01/14/68214661-0-image-a-7_1677680391530.jpg",
+      "publishedAt": "2023-03-04T08:45:28Z",
+      "content": "Multi-award winning superstar Drake is known for his record-breaking music albums but alongside his rapping exploits, he has picked up a quite staggering betting habit.\r\nThe Canadian rapper has gaine… [+7726 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "This is Money"
+      },
+      "author": "John Mayhead",
+      "title": "What happens when classic cars sell for too much? JOHN MAYHEAD explains",
+      "description": "How common is it for bidders to go dramatically over pre-sale guide prices when bidding on a classic car? And what does it do to the rest of the market? Hagerty's John Mayhead explains all.",
+      "url": "https://www.thisismoney.co.uk/money/cars/article-11812487/What-happens-classic-cars-sell-JOHN-MAYHEAD-explains.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/03/03/08/68293049-0-image-a-4_1677831079020.jpg",
+      "publishedAt": "2023-03-04T07:00:56Z",
+      "content": "One week ago, a 1987 Ford Sierra smashed records by selling for a staggering £596,250 at auction.\r\nGranted this was no normal Ford family car. The motor in question was one of 500 limited-edition Sie… [+7905 chars]"
     }
   ]
 }

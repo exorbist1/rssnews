@@ -9,7 +9,7 @@ app.use(cors({
 }))
 
 
-axios.get('https://newsapi.org/v2/everything?q=f1&language=en&apiKey=730160677c7746fb9d3d7900db5990a1', {
+axios.get('https://newsapi.org/v2/everything?q=f1&language=en&from=2023-03-04&apiKey=730160677c7746fb9d3d7900db5990a1', {
 }).then(resp => {
 
     console.log(resp.data);
