@@ -6,6 +6,11 @@
 	height: 60px;
 	box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
 	padding: 10px 36px;
+	display: flex;
+}
+
+.search--container{
+	font-family: 'DM Sans', sans-serif;
 }
 
 .search--stats{
