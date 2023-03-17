@@ -9,7 +9,23 @@
 	display: flex;
 }
 
+.search--bar{
+	font-family: 'DM Sans', sans-serif;
+	font-size: 20px;
+}
+
+.search--button{
+	font-family: 'DM Sans', sans-serif;
+	font-size: 20px;
+}
+
 .search--container{
+	padding: 20px 30px;
+	height: 60px;
+}
+
+
+.search--bar{
 	font-family: 'DM Sans', sans-serif;
 }
 
